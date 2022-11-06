@@ -1,0 +1,10 @@
+
+# Port for the Backend Server
+PORT=3000
+
+# JIRA
+## Destfolder=''
+Destfolder='C:\\temp'
+## Credentials
+JIRA_USERID=username
+JIRA_PASSWORD=password
