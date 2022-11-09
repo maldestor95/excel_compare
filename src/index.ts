@@ -1,23 +1,33 @@
-import { existsSync } from "fs";
-import {Workbook,Worksheet} from 'exceljs'
+import { XLSREADER,compareXLS } from "./xlsreader"
 
 const fileA='./src/__tests__/sample/Book1_versionA.xlsx'
 const fileB='./src/__tests__/sample/Book1_versionB.xlsx'
 
-async function loadExcelFile(filePath:string):Promise<Workbook|null> {
-    if (existsSync(filePath)){
-        const workbook = new Workbook();
-        await workbook.xlsx.readFile(filePath);
-        return workbook
-    }
-    return null
-}
-function sheetList(wb:Workbook):string[]{
-    const res= wb.worksheets.map(ws=>ws.name)
-    return res
+/* Steps Comparison of 2 excels files
+inputs fileA, file B as workbook
+output fileComp
+- direct comparison between fileA & file B
+- sheets created for all files  (differences + intersection)
+    - for each sheets, display
+        intersection
+        diffA
+        diffB
+output is a workbook 
+*/
+async function loadData (file1: string, file2:string){
+    const reader = new XLSREADER()
+    await reader.loadExcelFile(file1).then(()=>{
+        console.log(reader.WorkbookList)
+    })
+    await reader.loadExcelFile(file2).then(()=>{
+        console.log(reader.WorkbookList)
+    })
+    return reader
 }
 
-loadExcelFile(fileA).then((wb)=>{
-    console.log(sheetList(<Workbook>wb))
+loadData(fileA,fileB).then((reader)=>{
+const wb1=reader.wb[0].wb
+const wb2=reader.wb[1].wb
+const comparison= new compareXLS(wb1,wb2)
+comparison.differenceperSheet(wb1.worksheets[1],wb2.worksheets[1])
 })
-// loadExcelFile(fileB).then(console.log)

@@ -1,0 +1,468 @@
+Issue key|Issue id|Status|Created|Updated|Summary|Custom field (Feature)|Fix Version/s|Fix Version/s|Issue Type|Priority
+SMARTMS-2895|13774|TO_BE_ESTIMATED|20/Nov/20 10:28 AM|06/Sep/21 8:42 AM|[Tech][Scalability Phase 3] SIP split frontend/backend|Tech - Scalability|2.4.12/3.12.0||Story|Minor
+SMARTMS-5814|16924|On Hold|02/Mar/21 4:19 PM|13/Oct/21 9:21 AM|[Tech][Deployability] [Installer] MariaDB : to choose from ansible installation between MySQL and MariaDB |Tech - Deployability|2.4.8/3.8.0||Story|Minor
+SMARTMS-4872|15897|On Hold|08/Feb/21 1:47 PM|13/Oct/21 9:25 AM|[Tech][CI/CD Phase3] Pipelines|Tech - CI / CD|2.4.8/3.8.0||Story|Medium
+SMARTMS-4193|15181|On Hold|21/Jan/21 9:17 AM|13/Oct/21 9:32 AM|[LOKI][E2E Testing] Channels Page Automated Tests||2.4.8/3.8.0||Story|Minor
+SMARTMS-2973|13860|On Hold|23/Nov/20 3:39 PM|20/Oct/21 11:54 AM|[Tech] [Deployability] Support of IPv6 - 2/4 - Installer|Tech - Deployability|2.4.9/3.9.0||Story|Minor
+SMARTMS-11732|23566|On Hold|26/Jul/21 4:12 PM|21/Oct/21 8:40 AM| [Tech][CI/CD Phase2] Installing an OVA on VMWare|Tech - CI / CD|2.4.8/3.8.0||Story|Medium
+SMARTMS-3885|14852|TO_BE_ESTIMATED|08/Jan/21 7:55 AM|05/Aug/21 3:19 PM|[Tech][Technical Debt] Language mechanism unify|Tech - Technical debt|||Story|Minor
+SMARTMS-3452|14378|TO_BE_ESTIMATED|10/Dec/20 8:38 AM|05/Aug/21 3:21 PM|[Tech][Performance] Audit server communication performance improvement|Tech - Performance|||Story|Medium
+SMARTMS-3105|13992|TO_BE_ESTIMATED|25/Nov/20 9:50 AM|05/Aug/21 3:21 PM|[Tech][Technical Debt] php-jwt library as separate RPM|Tech - Technical debt|||Story|Minor
+SMARTMS-3103|13990|TO_BE_ESTIMATED|25/Nov/20 9:50 AM|05/Aug/21 3:21 PM|[Tech][Technical Debt] php-iban library as separate RPM|Tech - Technical debt|||Story|Minor
+SMARTMS-3099|13986|TO_BE_ESTIMATED|25/Nov/20 9:44 AM|05/Aug/21 3:21 PM|[Tech][Technical debt] Audit server save video file - for 1-to-1 video calls|Tech - Technical debt|||Story|Minor
+SMARTMS-3097|13984|TO_BE_ESTIMATED|25/Nov/20 9:40 AM|05/Aug/21 3:21 PM|[Tech][CI/CD] Email monitoring for dev servers|Tech - CI / CD|||Story|Minor
+SMARTMS-3096|13983|TO_BE_ESTIMATED|25/Nov/20 9:39 AM|05/Aug/21 3:21 PM|[Tech][CI/CD] Engine licenses expiration monitoring for dev servers|Tech - CI / CD|||Story|Minor
+SMARTMS-3095|13982|TO_BE_ESTIMATED|25/Nov/20 9:38 AM|05/Aug/21 3:21 PM|[Tech][CI/CD] SSL certificates expiration monitoring for dev servers|Tech - CI / CD|||Story|Minor
+SMARTMS-2890|13769|TO_BE_ESTIMATED|20/Nov/20 10:21 AM|05/Aug/21 3:21 PM|[Tech][Benchmark] Full usage benchmark|Tech - Scalability|||Story|Minor
+SMARTMS-2889|13768|TO_BE_ESTIMATED|20/Nov/21 10:20 AM|05/Aug/21 3:21 PM|[Tech][Benchmark] Webservice benchmark|Tech - Scalability|||Story|Minor
+SMARTMS-2886|13765|TO_BE_ESTIMATED|20/Nov/20 10:19 AM|05/Aug/21 3:21 PM|[Tech][Benchmark] Messaging benchmark|Tech - Scalability|||Story|Minor
+SMARTMS-8580|20270|TO_BE_ESTIMATED|12/May/21 3:29 PM|05/Aug/21 3:12 PM|[Backup] - Add external backup for SmartMS platforms|Tech - Scalability|||Story|Medium
+SMARTMS-8302|19959|TO_BE_ESTIMATED|05/May/21 1:04 PM|05/Aug/21 3:12 PM|[Tech][Audit Platform] Audit server performance improvements|Audit Platform|||Story|Medium
+SMARTMS-8092|19739|TO_BE_ESTIMATED|27/Apr/21 1:57 PM|05/Aug/21 3:13 PM|[Tech][Performance] Service API - Separate REST interface operations from UI|Tech - Performance|||Story|Minor
+SMARTMS-7379|18993|TO_BE_ESTIMATED|09/Apr/21 10:51 AM|05/Aug/21 3:13 PM|[Tech][Security] Audit server - MySQL data-at-rest encryption|Tech - Security|||Story|Minor
+SMARTMS-7196|18791|TO_BE_ESTIMATED|02/Apr/21 8:21 AM|05/Aug/21 3:13 PM|[Tech][Performance] Use HTTP/2 for HTTP requests|Tech - Performance|||Story|Minor
+SMARTMS-11710|23544|TO_BE_ESTIMATED|26/Jul/21 2:09 PM|06/Aug/21 12:33 AM|[Tech][Performance Step2] Send CloudStorageQuota less often|Tech - Performance|2.4.9/3.9.0||Story|Minor
+SMARTMS-11215|23039|TO_BE_ESTIMATED|13/Jul/21 2:26 PM|06/Aug/21 12:35 AM|[Tech][UI] Logs : Company admin - display duration in log|Tech - Logs|2.4.9/3.9.0||Story|Medium
+SMARTMS-10418|22207|TO_BE_ESTIMATED|25/Jun/21 10:53 AM|05/Aug/21 3:09 PM|MyRules Patrol Route cleanup|Patrol Route|||Story|Medium
+SMARTMS-9896|21665|TO_BE_ESTIMATED|15/Jun/21 8:22 AM|05/Aug/21 3:10 PM|[Tech][Performance Step2] Database - primary keys for temporary tables|Tech - Performance|2.4.9/3.9.0||Story|Medium
+SMARTMS-9070|20792|TO_BE_ESTIMATED|26/May/21 7:46 AM|05/Aug/21 3:12 PM|[Tech][Performance Step2] Database - RESELLER table optimizations|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-9040|20761|TO_BE_ESTIMATED|25/May/21 1:25 PM|05/Aug/21 3:12 PM|[Tech][Performance Step2] Database - ORGANIZATION table optimizations|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-9019|20740|TO_BE_ESTIMATED|25/May/21 10:50 AM|05/Aug/21 3:12 PM|[Tech][Performance Step2] Database Optimization - naming consistency|Tech - Performance|2.4.9/3.9.0||Story|Medium
+SMARTMS-9012|20733|TO_BE_ESTIMATED|25/May/21 9:35 AM|05/Aug/21 3:12 PM|[Tech][Performance Step2] Database Optimization - unsigned fields|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-9011|20732|TO_BE_ESTIMATED|25/May/21 9:18 AM|05/Aug/21 3:12 PM|[Tech][Performance Step2] Database Optimization - fix indexes|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-9034|20755|TO_BE_ESTIMATED|25/May/21 12:46 PM|06/Aug/21 8:11 AM|[Tech][Performance Step2] Database - SUBSCRIBER table optimizations|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-6399|17542|TO_BE_ESTIMATED|16/Mar/21 12:13 PM|25/Aug/21 10:46 AM|[Tech][Deployability] Installation Procedures Maintainability Enhancements|Tech - Deployability|||Story|Medium
+SMARTMS-13202|25167|TO_BE_ESTIMATED|31/Aug/21 11:44 AM|31/Aug/21 2:25 PM|[Tech][Resiliency] Resource Manager resiliency on MySQL connection|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-9825|21591|TO_BE_ESTIMATED|14/Jun/21 10:54 AM|03/Sep/21 3:09 PM|[Tech][Security] Understand OWASP TOP 10 Security Risks / Security by Design|Security|2.4.8/3.8.0||Story|Major
+SMARTMS-12935|24887|TO_BE_ESTIMATED|25/Aug/21 9:44 AM|06/Sep/21 3:20 PM|[Tech][Deployability] Clean up log files sent by Client app|Tech - Deployability|2.4.9/3.9.0||Story|Minor
+SMARTMS-12941|24893|TO_BE_ESTIMATED|25/Aug/21 10:41 AM|06/Sep/21 3:20 PM|[Tech][Deployability] Ansible script to change IP/FQDN easily on a platform|Tech - Deployability|2.4.9/3.9.0||Story|Minor
+SMARTMS-13463|25470|TO_BE_ESTIMATED|03/Sep/21 5:28 PM|07/Sep/21 3:46 PM|[LOKI] [Audio Calls: MCx] Lone Worker Protection Call|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-3100|13987|TO_BE_ESTIMATED|25/Nov/20 9:45 AM|10/Sep/21 9:43 AM|[Tech][Security] Deprecate MD5 authentication|Tech - Security|||Story|Minor
+SMARTMS-2933|13814|TO_BE_ESTIMATED|20/Nov/20 1:37 PM|10/Sep/21 9:42 AM|[Tech][Security] 2FA - Two-Factor-Authentication|Tech - Security|||Story|Major
+SMARTMS-3088|13975|TO_BE_ESTIMATED|25/Nov/20 9:30 AM|10/Sep/21 9:44 AM|[Tech][Logs] Improve log trackability|Tech - Logs|||Story|Minor
+SMARTMS-3102|13989|TO_BE_ESTIMATED|25/Nov/20 9:49 AM|10/Sep/21 9:44 AM|[Tech][Logs] Support log search tool|Tech - Logs|||Story|Minor
+SMARTMS-3098|13985|TO_BE_ESTIMATED|25/Nov/20 9:40 AM|10/Sep/21 9:44 AM|[Tech][Logs] Logs format unify|Tech - Logs|||Story|Minor
+SMARTMS-5140|16175|TO_BE_ESTIMATED|15/Feb/21 12:14 PM|10/Sep/21 9:45 AM|[Tech][Security] Deprecate SHA1 authentication|Tech - Security|||Story|Minor
+SMARTMS-4991|16018|TO_BE_ESTIMATED|11/Feb/21 8:56 AM|10/Sep/21 9:45 AM|[Tech][Security] Auditd configuration for SmartMS|Tech - Security|||Story|Minor
+SMARTMS-9677|21438|TO_BE_ESTIMATED|10/Jun/21 8:38 AM|10/Sep/21 9:51 AM|[Tech][Performance] Remove hard-coded timeout values for XML-RPC requests|Tech - Performance|||Story|Medium
+SMARTMS-11519|23353|TO_BE_ESTIMATED|21/Jul/21 2:02 PM|10/Sep/21 9:57 AM|[Tech][Performance Step2] Webchat - Webchat search performance|Tech - Performance|2.4.9/3.9.0||Story|Medium
+SMARTMS-2888|13767|TO_BE_ESTIMATED|20/Nov/20 10:20 AM|10/Sep/21 10:31 AM|[Tech][Benchmark] VoIP benchmark|Tech - Scalability|||Story|Minor
+SMARTMS-13499|25506|TO_BE_ESTIMATED|06/Sep/21 10:17 AM|14/Sep/21 6:01 PM|[Tech][Deployability] Resource Manager naming unify with SmartMS|Tech - Deployability|2.4.9/3.9.0||Story|Minor
+SMARTMS-13500|25507|TO_BE_ESTIMATED|06/Sep/21 10:17 AM|14/Sep/21 6:01 PM|[Tech][Deployability] Service API naming and publishing unify with SmartMS|Tech - Deployability|2.4.9/3.9.0||Story|Medium
+SMARTMS-12927|24878|TO_BE_ESTIMATED|25/Aug/21 7:36 AM|06/Sep/21 3:20 PM|[Tech][Scalability phase3][Cloud external storage] : Amazon S3 integration|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-12928|24879|TO_BE_ESTIMATED|25/Aug/21 7:37 AM|06/Sep/21 3:20 PM|[Tech][Scalability phase3][Cloud external storage] : Google Cloud Storage|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-12929|24880|TO_BE_ESTIMATED|25/Aug/21 7:37 AM|06/Sep/21 3:20 PM|[Tech][Scalability phase3][Cloud external storage] : Migration of old/current customers|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-12925|24876|TO_BE_ESTIMATED|25/Aug/21 7:35 AM|06/Sep/21 3:20 PM|[Tech][Scalability phase3][Cloud external storage] : Search/Filtering impact|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-12926|24877|TO_BE_ESTIMATED|25/Aug/21 7:36 AM|06/Sep/21 3:20 PM|[Tech][Scalability phase3][Cloud external storage] : TimeOut/Performance|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-6539|17699|TO_BE_ESTIMATED|22/Mar/21 8:21 AM|25/Aug/21 7:35 AM|[Tech][Scalability phase3][Cloud external storage] : For new Customers only|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-13484|25491|TO_BE_ESTIMATED|06/Sep/21 9:11 AM|17/Sep/21 12:40 PM|[Tech][Deployability] Installation procedures unify TOTR / TOM|Tech - Deployability|||Story|Medium
+SMARTMS-13485|25492|TO_BE_ESTIMATED|06/Sep/21 9:12 AM|17/Sep/21 12:41 PM|[Tech][Deployability] Distributed installation procedures naming unify for servers|Tech - Deployability|2.4.9/3.9.0||Story|Medium
+SMARTMS-14000|26042|TO_BE_ESTIMATED|17/Sep/21 1:09 PM|17/Sep/21 1:15 PM|[Tech][Deprecation] Replace Zend_Autoload|Tech - Technical debt|||Story|Minor
+SMARTMS-3092|13979|TO_BE_ESTIMATED|25/Nov/20 9:35 AM|17/Sep/21 1:14 PM|[Tech][Deprecation] Zend framework 1 deprecation (Core)|Tech - Technical debt|||Story|Minor
+SMARTMS-8118|19767|TO_BE_ESTIMATED|28/Apr/21 10:05 AM|05/Aug/21 3:13 PM|Video conferencing calendar generation in Backend|Tech - Technical debt|||Story|Major
+SMARTMS-13965|26002|TO_BE_ESTIMATED|16/Sep/21 5:21 PM|21/Sep/21 10:02 AM|[TECH][Interoperability]CUBIC RoIP Gateway integration|Interoperability|2.4.8/3.8.0||Story|Medium
+SMARTMS-3031|13918|TO_BE_ESTIMATED|24/Nov/20 1:21 PM|22/Sep/21 10:34 AM|[Tech][Deployability] Optional features configuration in installation procedures|Tech - Deployability|||Story|Minor
+SMARTMS-13116|25081|TO_BE_ESTIMATED|30/Aug/21 10:07 AM|23/Sep/21 6:40 AM|[Tech][Audit Scalability] Remove DB partitions|Tech - Scalability|||Story|Minor
+SMARTMS-14005|26047|TO_BE_ESTIMATED|17/Sep/21 1:58 PM|25/Sep/21 10:05 AM|[Tech][Scalability] VoIP split: remove dependency on Core code|Tech - Scalability|||Story|Minor
+SMARTMS-9487|21236|TO_BE_ESTIMATED|07/Jun/21 12:11 PM|29/Sep/21 8:20 AM|[Localization][Android] [AGR-822] Add Hungarian Support on Agnet v3.8|Tech - Localization|2.4.8/3.8.0||Story|Medium
+SMARTMS-13825|25852|TO_BE_ESTIMATED|14/Sep/21 9:31 AM|29/Sep/21 2:14 PM|[Tech][Performance Step2] Resource Manager Service requests sent using HTTP/2.0|Tech - Performance|2.4.9/3.9.0||Story|Minor
+SMARTMS-11644|23477|TO_BE_ESTIMATED|26/Jul/21 9:25 AM|29/Sep/21 2:17 PM|[Tech][Performance] Avoid locking for Redis queue retries|Tech - Performance|2.4.9/3.9.0||Story|Medium
+SMARTMS-13711|25735|TO_BE_ESTIMATED|10/Sep/21 11:08 AM|29/Sep/21 2:20 PM|[Localization] Japanese Language Support|Tech - Localization|2.4.9/3.9.0||Story|Medium
+SMARTMS-13982|26021|TO_BE_ESTIMATED|17/Sep/21 10:24 AM|29/Sep/21 2:20 PM|[Localization][Loc] Add Arabic language support for TOTR/TOM|Tech - Localization|2.4.9/3.9.0||Story|Medium
+SMARTMS-1858|12619|TO_BE_ESTIMATED|08/Oct/20 5:15 PM|05/Oct/21 10:01 AM|LOKI - [E2E Testing]|Loki|||Story|Minor
+SMARTMS-13137|25102|TO_BE_ESTIMATED|30/Aug/21 11:47 AM|06/Sep/21 3:19 PM|[Tech][Performance]Android Contact Module MVVM architecture Phase2/2|API & SDK Assistance|2.4.9/3.9.0||Story|Major
+SMARTMS-14422|26482|TO_BE_ESTIMATED|27/Sep/21 11:36 AM|05/Oct/21 5:22 PM|[TECH][Performance] [ANDROID] Geoloc offline mode - save beacon and GPS positions|Tech - Performance|2.4.9/3.9.0||Story|Minor
+SMARTMS-14001|26043|TO_BE_ESTIMATED|17/Sep/21 1:12 PM|08/Oct/21 3:40 AM|[Tech][Deprecation] Replace Zend_XmlRpc_Client|Tech - Technical debt|||Story|Minor
+SMARTMS-12081|23973|TO_BE_ESTIMATED|03/Aug/21 11:32 AM|13/Sep/21 12:07 PM|[LOKI] [Audio Calls: General features] Instant replay for PTT Group Calls|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-12075|23967|TO_BE_ESTIMATED|03/Aug/21 11:21 AM|07/Sep/21 6:02 PM|[LOKI] [Audio Calls: General features] Auto response|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-12080|23972|TO_BE_ESTIMATED|03/Aug/21 11:30 AM|13/Sep/21 12:07 PM|[LOKI] [Audio Calls: General features] Last user who took the floor for PTT Group Calls|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-12076|23968|TO_BE_ESTIMATED|03/Aug/21 11:25 AM|07/Sep/21 6:02 PM|[LOKI] [Audio Calls: General features] Close call when initiator leaves - PTT Group Calls|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-12121|24020|TO_BE_ESTIMATED|04/Aug/21 12:47 PM|03/Sep/21 2:04 PM|[LOKI] [Audio Calls: Advanced Telephony & Collaboration] Audio-conference|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-9051|20772|TO_BE_ESTIMATED|25/May/21 5:09 PM|03/Sep/21 2:03 PM|[LOKI] [Audio Calls: Advanced Telephony & Collaboration] Call in 1 to 1|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-9053|20774|TO_BE_ESTIMATED|25/May/21 5:11 PM|03/Sep/21 2:04 PM|[LOKI] [Audio Calls: Advanced Telephony & Collaboration] Call out|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-9017|20738|TO_BE_ESTIMATED|25/May/21 10:43 AM|03/Sep/21 2:01 PM|[LOKI] [Audio Calls: MCx] Ambient listening|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-9037|20758|TO_BE_ESTIMATED|25/May/21 1:01 PM|03/Sep/21 5:29 PM|[LOKI] [Audio Calls: MCx] Broadcast call|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-8820|20541|TO_BE_ESTIMATED|19/May/21 5:17 PM|03/Sep/21 2:01 PM|[LOKI] [Audi Calls: MCx] PTT call 1 to many|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-15029|27301|TO_BE_ESTIMATED|12/Oct/21 7:52 AM|12/Oct/21 7:53 AM|[Tech][Logs] Move crontab log files into a sub directory|Tech - Logs|2.4.9/3.9.0||Story|Medium
+SMARTMS-5228|16267|TO_BE_ESTIMATED|16/Feb/21 5:17 PM|12/Oct/21 5:53 PM|[LOKI] [Contacts] Public visibility|Loki|2.4.9/3.9.0||Story|Major
+SMARTMS-9849|21618|TO_BE_ESTIMATED|14/Jun/21 1:23 PM|13/Oct/21 9:32 AM|[Hugo Crowdin] Core Analysis|Tech - Localization|2.4.8/3.8.0||Story|Medium
+SMARTMS-9850|21619|TO_BE_ESTIMATED|14/Jun/21 1:23 PM|13/Oct/21 9:32 AM|[Hugo Crowdin] Core Integration|Tech - Localization|2.4.8/3.8.0||Story|Medium
+SMARTMS-8818|20539|TO_BE_ESTIMATED|19/May/21 4:59 PM|13/Oct/21 9:45 AM|[LOKI] [Audio Calls: MCx] PTT call 1 to 1|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-6956|18545|TO_BE_ESTIMATED|29/Mar/21 2:28 PM|13/Oct/21 9:45 AM|[Tech] [AGR-768] Rx integration with JSC Ingenium DRA+PCRF (Mexico case)||2.4.8/3.8.0||Story|Minor
+SMARTMS-14257|26304|TO_BE_ESTIMATED|22/Sep/21 5:38 PM|13/Oct/21 6:12 PM|[TECH][AGR-810] [Geolocation]: Map itinerary - Date and time vs tracking rule|Tech - Documentation|||Story|Minor
+SMARTMS-15191|27485|TO_BE_ESTIMATED|14/Oct/21 12:49 PM|14/Oct/21 12:49 PM|"[Tech][Deployability] Ansible - rename ""web"" extra_public parameter"|Tech - Deployability|2.4.9/3.9.0||Story|Minor
+SMARTMS-15292|27593|TO_BE_ESTIMATED|18/Oct/21 3:06 PM|18/Oct/21 3:27 PM|[Tech][Technical Debt] Android 12 - risk analysis|Tech - Technical debt|2.4.9/3.9.0||Story|Major
+SMARTMS-13077|25039|TO_BE_ESTIMATED|27/Aug/21 8:59 AM|19/Oct/21 9:20 AM|"[device certification] [AGT-1306] add Knox activation for Samsung Galaxy Xcover field pro, Samsung Galaxy Xcover pro, Samsung Galaxy Xcover 4s for Agnet Work Saas package 3.8"|Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-14716|26967|TO_BE_ESTIMATED|05/Oct/21 3:30 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Dialer|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14717|26968|TO_BE_ESTIMATED|05/Oct/21 3:30 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Search bar|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14718|26969|TO_BE_ESTIMATED|05/Oct/21 3:30 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Multi selection|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14719|26970|TO_BE_ESTIMATED|05/Oct/21 3:31 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Delete conversation option|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14721|26972|TO_BE_ESTIMATED|05/Oct/21 3:31 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Export NFC messages|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14722|26973|TO_BE_ESTIMATED|05/Oct/21 3:32 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Switching between internal and external conversations|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14724|26975|TO_BE_ESTIMATED|05/Oct/21 3:35 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation collaboration] Call|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14621|26847|TO_BE_ESTIMATED|01/Oct/21 4:05 PM|20/Oct/21 9:52 AM|[TECH][ACCESSORIES] implement Samsung SDK 3.71 (no more Knox constraints on buttons)|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-12012|23876|TO_BE_ESTIMATED|02/Aug/21 11:02 AM|20/Oct/21 9:52 AM|[Technical Debt] [#12065]NFC Writer login|Provisioning|2.4.9/3.9.0||Story|Medium
+SMARTMS-14587|26808|TO_BE_ESTIMATED|30/Sep/21 4:46 PM|20/Oct/21 11:14 AM|[LOKI] [Audio Calls: General features] Call pop-in to accept or decline a call|Loki|2.4.8/3.8.0||Story|Major
+SMARTMS-11114|22937|TO_BE_ESTIMATED|12/Jul/21 8:59 AM|21/Oct/21 7:36 AM|[Tech][Performance] Geolocation - Map Itinerary UI improvement|Tech - Performance|2.4.8/3.8.0||Story|Medium
+SMARTMS-5546|16604|TO_BE_ESTIMATED|25/Feb/21 5:28 AM|21/Oct/21 7:37 AM|[Tech][Scalability] VoIP Split Optimization : Make requests asynchronous in Mediaserver application|Tech - Scalability|2.4.8/3.8.0||Story|Minor
+SMARTMS-5547|16605|TO_BE_ESTIMATED|25/Feb/21 5:44 AM|21/Oct/21 7:37 AM|[Tech][Scalability] VoIP Split Optimization : Make requests asynchronous in VoIP application|Tech - Scalability|2.4.8/3.8.0||Story|Minor
+SMARTMS-4309|15307|TO_BE_ESTIMATED|25/Jan/21 5:25 PM|21/Oct/21 7:41 AM|[Tech][Scalability][VoIP split from core] Documentation|Tech - Scalability|2.4.8/3.8.0|2.4.9/3.9.0|Story|Minor
+SMARTMS-11399|23230|TO_BE_ESTIMATED|19/Jul/21 11:43 AM|21/Oct/21 8:32 AM|[Tech][Deployability] AWS deployment for Tait TOTR SaaS service|Tech - Deployability|2.4.8/3.8.0||Story|Medium
+SMARTMS-9072|20796|TO_BE_ESTIMATED|26/May/21 9:09 AM|21/Oct/21 8:33 AM|[Tech][Deployability]OVA MySQL memory usage improvements|Tech - Deployability|2.4.8/3.8.0||Story|Minor
+SMARTMS-9074|20798|TO_BE_ESTIMATED|26/May/21 9:11 AM|21/Oct/21 8:33 AM|[Tech][Deployability] OVA Mediaserver memory usage improvements|Tech - Deployability|2.4.8/3.8.0||Story|Minor
+SMARTMS-12309|24219|TO_BE_ESTIMATED|10/Aug/21 12:38 PM|21/Oct/21 8:34 AM|[Tech][Deployability]- terraform config files for AWS|Tech - Deployability|2.4.8/3.8.0||Story|Medium
+SMARTMS-10508|22304|TO_BE_ESTIMATED|29/Jun/21 8:01 AM|21/Oct/21 8:33 AM|[Tech][Deployability] Syslog enabled on dev servers|Tech - Deployability|2.4.8/3.8.0||Story|Medium
+SMARTMS-8579|20269|TO_BE_ESTIMATED|12/May/21 3:16 PM|21/Oct/21 8:29 AM|[Tech][Deployability] Backup : Add Storage local backup for SmartMS platforms|Tech - Deployability|2.4.8/3.8.0||Story|Medium
+SMARTMS-8377|20040|TO_BE_ESTIMATED|07/May/21 8:43 AM|21/Oct/21 8:29 AM|[Tech][Deployability] BackupPC include storage in backup|Tech - Deployability|2.4.8/3.8.0||Story|Medium
+SMARTMS-8166|19818|TO_BE_ESTIMATED|29/Apr/21 12:42 PM|21/Oct/21 8:29 AM|[Tech][Deployability]Engine Systemd integration|Tech - Deployability|2.4.8/3.8.0||Story|Major
+SMARTMS-3030|13917|TO_BE_ESTIMATED|24/Nov/20 1:21 PM|21/Oct/21 8:36 AM|[Tech][Deployability] Rollback procedure for major product releases upgrade|Tech - Deployability|2.4.8/3.8.0||Story|Minor
+SMARTMS-3093|13980|TO_BE_ESTIMATED|25/Nov/20 9:37 AM|21/Oct/21 8:37 AM|[Tech][CI/CD Phase 3] SonarQube servers to use https|Tech - CI / CD|2.4.8/3.8.0||Story|Minor
+SMARTMS-3094|13981|TO_BE_ESTIMATED|25/Nov/20 9:37 AM|21/Oct/21 8:37 AM|[Tech][CI/CD Phase 3] Jenkins servers to use https|Tech - CI / CD|2.4.8/3.8.0||Story|Minor
+SMARTMS-2920|13799|TO_BE_ESTIMATED|20/Nov/20 10:40 AM|21/Oct/21 9:29 AM|[Tech][Resiliency] Mobile client failover FQDN persistent|Tech - Resiliency|2.4.8/3.8.0||Story|Minor
+SMARTMS-6281|17414|TO_BE_ESTIMATED|12/Mar/21 10:55 AM|21/Oct/21 9:29 AM|[Tech][Resiliency] SmartMS All-In-One Georesiliency installation procedures handover to Core team|Tech - Resiliency|2.4.8/3.8.0||Story|Minor
+SMARTMS-7397|19011|TO_BE_ESTIMATED|09/Apr/21 1:40 PM|21/Oct/21 9:29 AM|[Tech][Resiliency] SmartMS Websplit Georesiliency installation procedures handover to Core team|Tech - Resiliency|2.4.8/3.8.0||Story|Minor
+SMARTMS-7398|19012|TO_BE_ESTIMATED|09/Apr/21 1:41 PM|21/Oct/21 9:29 AM|[Tech][Resiliency] SmartMS Distributed Georesiliency installation procedure handover to Core team|Tech - Resiliency|2.4.8/3.8.0||Story|Minor
+SMARTMS-10422|22212|TO_BE_ESTIMATED|25/Jun/21 1:07 PM|21/Oct/21 9:29 AM|[Tech][Resiliency]Storage-Db sync tool (Core storage) - integrate in product|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-10446|22241|TO_BE_ESTIMATED|28/Jun/21 9:39 AM|21/Oct/21 9:29 AM|[Tech][Resiliency]Storage-Db sync tool (Webchat backend storage) - integrate in product|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-8105|19753|TO_BE_ESTIMATED|27/Apr/21 8:17 PM|21/Oct/21 9:29 AM|[Tech][Resiliency] Installation procedure Websplit installation procedure for OVH Cloud|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-11055|22874|TO_BE_ESTIMATED|09/Jul/21 8:42 AM|21/Oct/21 9:29 AM|[Tech][Resiliency]Support for service reload in Node.JS applications (configuration reload)|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-11056|22875|TO_BE_ESTIMATED|09/Jul/21 8:43 AM|21/Oct/21 9:29 AM|[Tech][Resiliency]Support for service reload in Status applications (configuration reload)|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-11059|22878|TO_BE_ESTIMATED|09/Jul/21 8:49 AM|21/Oct/21 9:29 AM|[Tech][Resiliency]Support for swsmartms-services-reload command|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-9071|20795|TO_BE_ESTIMATED|26/May/21 7:59 AM|21/Oct/21 9:32 AM|[Tech][Technical Debt] MySQL remove integer display width|Tech - Technical debt|2.4.8/3.8.0||Story|Minor
+SMARTMS-9297|21033|TO_BE_ESTIMATED|02/Jun/21 8:59 AM|21/Oct/21 9:32 AM|[Tech][Technical Debt] Database transactions for all webservices/daemons|Tech - Technical debt|2.4.8/3.8.0||Story|Major
+SMARTMS-9299|21035|TO_BE_ESTIMATED|02/Jun/21 9:10 AM|21/Oct/21 9:32 AM|[Tech][Technical Debt] Superadmin pagination move to Backend|Tech - Technical debt|2.4.8/3.8.0||Story|Major
+SMARTMS-3037|13924|TO_BE_ESTIMATED|24/Nov/20 1:32 PM|21/Oct/21 9:32 AM|[Tech][Technical Debt] Use utf8mb4 charset in database (MySQL)|Tech - Technical debt|2.4.8/3.8.0||Story|Minor
+SMARTMS-11984|23844|TO_BE_ESTIMATED|02/Aug/21 8:07 AM|21/Oct/21 9:28 AM|[Tech][Security]  SAAS: Open beacon server interface on internet - Security Validation|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-12235|24143|TO_BE_ESTIMATED|06/Aug/21 3:13 PM|21/Oct/21 10:26 AM|[Tech][Scalability] - Geolocation default retention period|Geolocation|2.4.8/3.8.0||Story|Medium
+SMARTMS-14021|26063|TO_BE_ESTIMATED|17/Sep/21 4:21 PM|21/Oct/21 6:39 AM|Unify LibphoneNumber (Google) in all platforms|Contacts|2.4.9/3.9.0||Story|Medium
+SMARTMS-15427|27730|TO_BE_ESTIMATED|21/Oct/21 3:05 PM|21/Oct/21 3:10 PM|Add UI SuperAdmin to Crowdin and add FR translation|Hugo|2.4.9/3.9.0||Story|Minor
+SMARTMS-14313|26364|TO_BE_ESTIMATED|23/Sep/21 3:47 PM|21/Oct/21 5:35 PM|[TECH][Accessories] support of 3m-peltor-ws-protac-xpi|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-2891|13770|Submitted to RM|20/Nov/20 10:22 AM|05/Aug/21 3:21 PM|[Tech][Georesiliency] AIO georesiliency|Tech - Resiliency|||Story|Medium
+SMARTMS-5757|16867|Submitted to RM|01/Mar/21 3:29 PM|05/Aug/21 3:18 PM|[LOKI] Understand and analyze the way the webchat-frontend communicates with the core through websockets|Loki|||Story|Medium
+SMARTMS-3036|13923|Submitted to RM|24/Nov/20 1:26 PM|25/Aug/21 10:44 AM|[Tech][Deployability Phase 2] Product installation integration using Ansible|Tech - Deployability|2.4.7/3.7.0||Story|Major
+SMARTMS-9904|21674|Submitted to RM|15/Jun/21 10:50 AM|05/Oct/21 9:28 AM|Technical Documentation 247||||Story|Minor
+SMARTMS-4192|15180|Submitted to RM|21/Jan/21 9:14 AM|05/Oct/21 10:02 AM|[LOKI - E2E Testing] Extended WebChat Settings Page Automated Tests|Loki|||Story|Minor
+SMARTMS-810|11427|Submitted to RM|03/Sep/20 10:48 AM|05/Oct/21 10:00 AM|Loki Architecture|Loki|||Story|Medium
+SMARTMS-2996|13883|Submitted to RM|24/Nov/20 9:28 AM|05/Oct/21 10:01 AM|[LOKI] [Web UI Style Guide] Responsive design support for WebChat interface|Loki|2.4.6/3.6.0||Story|Medium
+SMARTMS-6968|18557|Submitted to RM|29/Mar/21 4:18 PM|05/Oct/21 10:13 AM|[MCX][Accessories][Strengthen list of devices] Webchat - support new accesories|Accessories|2.4.7/3.7.0||Story|Minor
+SMARTMS-2892|13771|Ready|20/Nov/20 10:23 AM|05/Aug/21 3:21 PM|[Tech][Georesiliency] WebSplit georesiliency|Tech - Resiliency|||Story|Medium
+SMARTMS-1443|12176|Ready|25/Sep/20 4:17 PM|11/Feb/21 4:09 PM|[Tech] Client intent support phase 2/phase 3|Tech - Software|||Story|Minor
+SMARTMS-1438|12171|Ready|25/Sep/20 3:57 PM|16/Feb/21 2:48 PM|[Tech] TPOL IOP Prescom - E2E security SIP (Phase 2) (10161)|Tech - Security|||Story|Minor
+SMARTMS-1437|12170|Ready|25/Sep/20 3:57 PM|16/Feb/21 2:48 PM|[Tech] TPOL IOP Prescom - E2E security encryption RTP (Phase 2) (10160)|Tech - Security|||Story|Minor
+SMARTMS-11482|23316|Ready|20/Jul/21 3:03 PM|05/Aug/21 8:06 PM|[Trainings] - vmWare trainings program||||Story|Medium
+SMARTMS-9295|21031|Ready|02/Jun/21 8:43 AM|05/Aug/21 3:11 PM|[Tech][Performance Step2] Database - Shorter retention period for non-DISPLAY messages|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-9127|20857|Ready|27/May/21 1:28 PM|06/Aug/21 12:36 AM|[Tech][Geofencing][Study] V2 - Mobile Offline mode||2.4.9/3.9.0||Story|Minor
+SMARTMS-1248|11973|Ready|18/Sep/20 4:33 PM|23/Aug/21 11:23 AM|[Tech][CI/CD Phase 3] Cache NPMs in Jenkins pipeline (for SuperAdmin) (10365)|Tech - CI / CD|2.4.9/3.9.0||Story|Major
+SMARTMS-9296|21032|Ready|02/Jun/21 8:50 AM|24/Aug/21 2:02 PM|[Tech][Performance  Step2] Database - Move fulltext field outside of MESSAGE table|Tech - Performance|2.4.9/3.9.0||Story|Major
+SMARTMS-11299|23128|Ready|15/Jul/21 9:58 AM|08/Sep/21 2:40 PM|[Tech][Resiliency] FR SaaS OVH platform deployment|Tech - Resiliency|||Story|Medium
+SMARTMS-11242|23070|Ready|14/Jul/21 10:07 AM|17/Sep/21 12:38 PM|[Tech][Security] Remove hard-coded TLS 1.2 from HTTP requests|Security|2.4.9/3.9.0||Story|Minor
+SMARTMS-1261|11986|Ready|18/Sep/20 4:40 PM|22/Sep/21 10:34 AM|[Tech] Enhance webchat logs (10522)||2.4.6/3.6.0||Story|Minor
+SMARTMS-1419|12152|Ready|25/Sep/20 3:09 PM|27/Sep/21 11:32 AM|[Tech] Mobile VoIP stack - Migrate OpenGL ES 2 code to Metal in iOS (OpenGL ES 2 is deprecated on iOS) (10456)||2.4.8/3.8.0||Story|Minor
+SMARTMS-1442|12175|Ready|25/Sep/20 4:15 PM|01/Oct/21 10:34 AM|"[Tech] Mobile Device Management (MDM) - Android, WebOrg (phase 2) (10313)"|Tech - Deployability|2.4.6/3.6.0||Story|Minor
+SMARTMS-14603|26826|Ready|01/Oct/21 11:31 AM|01/Oct/21 11:33 AM|[TECH][Security] KMS Presentation|Tech - Security|||Story|Minor
+SMARTMS-1433|12166|Ready|25/Sep/20 3:44 PM|05/Oct/21 1:56 PM|[Security] Improve UX when sending a new webchat activation code (10093)||2.4.6/3.6.0||Story|Minor
+SMARTMS-14108|26150|Ready|20/Sep/21 3:10 PM|12/Oct/21 4:34 PM|Locations from external Application|Geolocation|2.4.7/3.7.0||Story|Medium
+SMARTMS-7433|19049|Ready|12/Apr/21 11:05 AM|13/Oct/21 9:19 AM|[Tech][Scalability][Benchmark] Bench 2.4.7 distributed architecture|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-1441|12174|Ready|25/Sep/20 4:14 PM|13/Oct/21 9:41 AM|"[Tech][Technical Debt]Migrate from Objective-C to Swift phase 1 (Registration, Account, Settings) (10434)"|Tech - Technical debt|2.4.8/3.8.0||Story|Minor
+SMARTMS-11598|23431|Ready|23/Jul/21 10:16 AM|13/Oct/21 9:50 AM|[Tech][Deployability] Backup : move MySQL DB dump from local Backend Core to mngt|Tech - Deployability|2.4.8/3.8.0||Story|Medium
+SMARTMS-10601|22405|Ready|30/Jun/21 5:15 PM|15/Oct/21 3:12 PM|[Device] [Device Certification] New device support Telo M6 (Airbus AGT-795)|Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-6890|18479|Ready|29/Mar/21 9:10 AM|18/Oct/21 11:42 AM|[Tech][Security] [KMS] : Android Integration (APK generation)|Tech - Software|2.4.8/3.8.0||Story|Major
+SMARTMS-15278|27577|Ready|18/Oct/21 10:29 AM|18/Oct/21 4:25 PM|[Core] [Repository] Support version name in the folder name on the repository|Tech - Deployability|2.4.9/3.9.0||Story|Medium
+SMARTMS-14931|27202|Ready|08/Oct/21 12:23 PM|19/Oct/21 1:43 PM|[TECH][ACCESSORIES] [Android][Labels][Bluetooth PTT][ZD#9582] BLE pairing label and location authorization|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-14027|26069|Ready|17/Sep/21 6:04 PM|20/Oct/21 9:27 AM|[TECH][AGR-876] plug test Support in November 2021|Interoperability|2.4.9/3.9.0||Story|Minor
+SMARTMS-823|11440|COMMITTED TO MAINLINE|03/Sep/20 11:57 AM|05/Oct/21 9:43 AM|[LOKI] Setup a uniform testing framework|Loki|||Epic|Medium
+SMARTMS-1271|11996|In Development|21/Sep/20 2:56 PM|03/Feb/21 11:52 AM|[LOKI] General Project Info & Meeting Notes|Loki|||Epic|Minor
+SMARTMS-6723|18088|In Development|25/Mar/21 10:20 AM|05/Aug/21 3:15 PM|[Hugo] UI|Hugo|||Epic|Minor
+SMARTMS-4845|15870|In Development|08/Feb/21 9:27 AM|23/Aug/21 11:23 AM|"[Tech][CI/CD] Phase 2 : Testing, pipelines and deployability"|Tech - CI / CD|||Epic|Major
+SMARTMS-3007|13894|In Development|24/Nov/20 10:33 AM|06/Sep/21 3:11 PM|Achieve scalability for the distributed architecture (phase 2)|Tech - Scalability|2.4.8/3.8.0||Epic|Major
+SMARTMS-2894|13773|In Development|20/Nov/20 10:27 AM|14/Sep/21 10:21 AM|Achieve scalability for the distributed architecture (phase 1)|Tech - Scalability|||Epic|Major
+SMARTMS-4921|15946|In Development|09/Feb/21 2:27 PM|15/Sep/21 11:21 AM|[Tech] CI/CD phase 3|Tech - CI / CD|2.4.8/3.8.0||Epic|Minor
+SMARTMS-3453|14379|In Development|10/Dec/20 8:38 AM|22/Sep/21 3:51 PM|[Tech] Improve performance|Tech - Performance|||Epic|Minor
+SMARTMS-13447|25452|In Development|03/Sep/21 3:12 PM|06/Oct/21 3:43 PM|[LOKI] [Webchat SDK] Audio Calls|Webchat SDK|2.4.8/3.8.0||Epic|Major
+SMARTMS-8279|19938|In Development|04/May/21 2:47 PM|06/Oct/21 3:50 PM|[LOKI] Audio Calls: MCx|Loki|||Epic|Medium
+SMARTMS-13115|25080|Rejected|30/Aug/21 10:06 AM|21/Oct/21 12:21 PM|[Tech] Audit server scalability|Tech - Scalability|||Epic|Medium
+SMARTMS-5396|16446|Closed|22/Feb/21 8:11 AM|05/Aug/21 3:18 PM|[Tech][Georesiliency] DNS multi-IP resiliency phase 1|Tech - Resiliency|||Epic|Major
+SMARTMS-4935|15962|Closed|10/Feb/21 8:13 AM|05/Aug/21 3:19 PM|[Tech][CI/CD] Phase 1|Tech - CI / CD|||Epic|Major
+SMARTMS-3959|14931|Estimated|12/Jan/21 3:36 PM|05/Aug/21 3:19 PM|[LOKI] Contacts|Loki|||Epic|Medium
+SMARTMS-2885|13764|Estimated|20/Nov/20 10:16 AM|05/Aug/21 3:21 PM|Benchmarks|Tech - Scalability|||Epic|Minor
+SMARTMS-6462|17608|Estimated|17/Mar/21 5:37 PM|05/Aug/21 3:15 PM|[Localization] Arabic Display|Tech - Localization|||Epic|Major
+SMARTMS-5966|17090|Estimated|05/Mar/21 1:11 PM|13/Sep/21 12:10 PM|[Scalability] Cloud external storage|Tech - Scalability|||Epic|Major
+SMARTMS-6954|18543|Estimated|29/Mar/21 2:14 PM|05/Oct/21 2:37 PM|[Tech][Device] [AGR774]-New device Support BW 2.4.8/3.8|Accessories|2.4.8/3.8.0||Epic|Minor
+SMARTMS-2893|13772|In Progress|20/Nov/20 10:24 AM|05/Aug/21 3:21 PM|[Tech][Georesiliency] Distributed georesiliency|Tech - Resiliency|||Story|Medium
+SMARTMS-6692|18054|In Progress|24/Mar/21 1:56 PM|06/Aug/21 12:36 AM|[2.4.4.13] Tablette  Chrome displaying WEBCHAT pages|Messaging|2.4.9/3.9.0||Story|Major
+SMARTMS-10121|21901|In Progress|18/Jun/21 11:35 AM|19/Aug/21 6:09 PM|[Field Service Management] [Dispatcher Scheduling interface] [Installer]  FSM Installation procedures|Field Service Management|||Story|Major
+SMARTMS-4911|15936|In Progress|09/Feb/21 1:00 PM|20/Aug/21 4:05 PM|[Tech][Georesiliency] DNS multi-IP resiliency - SIP connection retry|Tech - Resiliency|2.4.7/3.7.0||Story|Minor
+SMARTMS-4912|15937|In Progress|09/Feb/21 1:00 PM|20/Aug/21 4:05 PM|[Tech][Georesiliency] DNS multi-IP resiliency - HTTP(s) connection retry|Tech - Resiliency|2.4.7/3.7.0||Story|Minor
+SMARTMS-4913|15938|In Progress|09/Feb/21 1:01 PM|20/Aug/21 4:05 PM|[Tech][Georesiliency] DNS multi-IP resiliency - reuse HTTP(s) connections in mobile applications|Tech - Resiliency|2.4.7/3.7.0||Story|Minor
+SMARTMS-6885|18474|In Progress|29/Mar/21 8:52 AM|17/Aug/21 9:35 AM|[Tech][Security] [KMS] RTPHub : Passthrough for RTP and dedicated key for MPC|Tech - Software|2.4.8/3.8.0||Story|Major
+SMARTMS-5399|16449|In Progress|22/Feb/21 8:16 AM|20/Aug/21 4:05 PM|[Tech][Georesiliency] DNS multi-IP resiliency - document existing implementation Backend|Tech - Resiliency|2.4.7/3.7.0||Story|Major
+SMARTMS-10131|21911|In Progress|18/Jun/21 12:19 PM|26/Aug/21 8:05 PM|[Tech][Resiliency]MESSAGE_INBOX monitoring mechanism|Tech - Resiliency|2.4.8/3.8.0||Story|Medium
+SMARTMS-11193|23017|In Progress|13/Jul/21 10:18 AM|15/Sep/21 1:13 PM|Saas supervision - virtual NOC creation|Platform Administration|||Story|Medium
+SMARTMS-12329|24240|In Progress|11/Aug/21 11:05 AM|21/Sep/21 1:04 PM|[US DataCenter]US SaaS old infrastructure/rack decommissioning|Platform Administration|||Story|Minor
+SMARTMS-2887|13766|In Progress|20/Nov/20 10:20 AM|21/Sep/21 4:58 PM|[Tech][Benchmark] Geolocation benchmark|Tech - Scalability|||Story|Minor
+SMARTMS-7770|19402|In Progress|19/Apr/21 2:41 PM|26/Aug/21 8:29 PM|[Localization][Hugo][UI] SmartMS-to-HUGO implementation|Hugo|2.4.8/3.8.0||Story|Medium
+SMARTMS-10110|21890|In Progress|18/Jun/21 10:36 AM|24/Sep/21 9:05 AM|[Tech][Scalability] Study of general performance|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-11305|23135|In Progress|15/Jul/21 11:20 AM|24/Sep/21 9:28 AM|[SAAS] - wish list of features to be activated on SAAS in S1 2021|Platform Administration|||Story|Medium
+SMARTMS-12670|24590|In Progress|19/Aug/21 10:15 AM|25/Sep/21 10:07 AM|[Tech][CI/CD Phase 3] Non regression tests |Tech - CI / CD|||Story|Minor
+SMARTMS-14043|26085|In Progress|20/Sep/21 11:34 AM|27/Sep/21 2:06 PM|SmartMS Webchat Pentest using BurpSuite tools|Security|2.4.7/3.7.0||Story|Minor
+SMARTMS-10506|22302|In Progress|29/Jun/21 7:59 AM|22/Sep/21 3:52 PM|[Tech][Performance] Syslog : Change configuration to avoid writing logs to Systemd Logs|Tech - Performance|2.4.8/3.8.0||Story|Medium
+SMARTMS-3117|14005|In Progress|25/Nov/20 1:02 PM|04/Oct/21 9:41 AM|[Tech][Scalability] Distributed stateless installation procedure (part 2)|Tech - Scalability|2.4.8/3.8.0||Story|Minor
+SMARTMS-5770|16880|In Progress|01/Mar/21 4:20 PM|05/Oct/21 9:58 AM|"[LOKI] Integrate the bridge between the websocket server and Loki, into Loki"|Loki|||Story|Medium
+SMARTMS-5545|16603|In Progress|25/Feb/21 5:23 AM|05/Aug/21 3:32 PM|[Tech][Scalability] Benchmark 2.4.7 AIO|Tech - Scalability|2.4.7/3.7.0||Story|Medium
+SMARTMS-13448|25453|In Progress|03/Sep/21 3:23 PM|06/Oct/21 3:44 PM|[LOKI][Webchat SDK] [Audio Calls] Adding the modules to the SDK|Webchat SDK|2.4.8/3.8.0||Story|Major
+SMARTMS-13449|25454|In Progress|03/Sep/21 3:28 PM|11/Oct/21 9:32 AM|[LOKI][Webchat SDK] [Audio Calls] Writting the corresponding documentation|Webchat SDK|2.4.8/3.8.0||Story|Major
+SMARTMS-13783|25808|In Progress|13/Sep/21 12:08 PM|08/Oct/21 2:17 PM|[LOKI] [Audio Calls: General features] Call banner|Loki|2.4.8/3.8.0||Story|Major
+SMARTMS-8798|20518|In Progress|19/May/21 3:24 PM|08/Oct/21 2:17 PM|[LOKI] [Audio Calls: MCx] VoIP call 1 to 1|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-11111|22934|In Progress|12/Jul/21 8:58 AM|05/Oct/21 11:19 AM|[Tech][Performance] Geolocation - Do not store data which does not have geolocation meaning|Tech - Performance|2.4.8/3.8.0||Story|Medium
+SMARTMS-13481|25488|In Progress|06/Sep/21 8:47 AM|28/Sep/21 2:15 PM|[Tech][Scalability] Remove /storage usage from Webchat Frontend|Tech - Scalability|2.4.8/3.8.0||Story|Minor
+SMARTMS-3078|13965|In Progress|25/Nov/20 9:10 AM|22/Sep/21 12:01 PM|[Tech][Performance] Mobile : Large group conversations performance (10883)|Tech - Performance|2.4.8/3.8.0||Story|Major
+SMARTMS-13482|25489|In Progress|06/Sep/21 8:49 AM|28/Sep/21 2:13 PM|[Tech][Scalability] Remove /storage usage from Company Admin|Tech - Scalability|2.4.8/3.8.0||Story|Minor
+SMARTMS-10239|22022|In Progress|22/Jun/21 12:53 PM|13/Oct/21 9:12 AM|[Tech][Scalability]Mobile notification sending improvements when Webchat is active|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-12797|24717|In Progress|23/Aug/21 5:45 AM|13/Oct/21 9:15 AM|[Tech][Scalability][CUGv3] Adding user to contact list|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-12796|24716|In Progress|23/Aug/21 5:42 AM|13/Oct/21 9:14 AM|[Tech][Scalability][CUGv3] User search|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-4865|15890|In Progress|08/Feb/21 1:32 PM|13/Oct/21 9:24 AM|[Tech][CI/CD Phase2] Test / Dev OVA automated build|Tech - CI / CD|2.4.8/3.8.0||Story|Medium
+SMARTMS-11987|23847|In Progress|02/Aug/21 8:35 AM|13/Oct/21 9:28 AM|[Tech][Security]  Internal Infrastructure Audit|Security|2.4.8/3.8.0||Story|Major
+SMARTMS-10989|22806|In Progress|07/Jul/21 5:04 PM|07/Sep/21 3:14 PM|[Tech][CI/CD Phase3] [Sanity tests] [Mobile] Agnet implementation  into Sanity Test|Tech - CI / CD|2.4.8/3.8.0||Story|Minor
+SMARTMS-9928|21698|In Progress|15/Jun/21 1:54 PM|13/Oct/21 9:29 AM|[Localization][Loc] Add Italian language Support||2.4.8/3.8.0||Story|Medium
+SMARTMS-14037|26079|In Progress|20/Sep/21 10:22 AM|13/Oct/21 9:54 AM|[LOKI] [Webchat SDK] SonarQube scanning|Loki|2.4.8/3.8.0||Story|Major
+SMARTMS-9905|21675|In Progress|15/Jun/21 10:59 AM|13/Oct/21 9:52 AM|[Tech][Technical debt][iOS]iOS 15 Preparation|Tech - Software|2.4.8/3.8.0||Story|Minor
+SMARTMS-15005|27277|In Progress|11/Oct/21 4:34 PM|13/Oct/21 11:10 AM|[Tech][CI/CD] 2.4.8 OVA|Tech - CI / CD|2.4.8/3.8.0||Story|Major
+SMARTMS-1596|12336|In Progress|01/Oct/20 11:49 AM|13/Oct/21 4:13 PM|[Tech][Security] TLS 1.3 support (10530)|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-12795|24715|In Progress|23/Aug/21 5:36 AM|13/Oct/21 9:14 AM|[Tech][Scalability][CUGv3] Implement new CUG|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-4548|15556|In Progress|28/Jan/21 6:12 PM|14/Oct/21 10:41 AM|[Tech][CI/CD Phase3] 1 APK : Configurable paid service keys|Tech - Software|2.4.8/3.8.0||Story|Medium
+SMARTMS-10086|21866|In Progress|17/Jun/21 6:16 PM|14/Oct/21 6:52 PM|[Tech][Performance]Android Messaging Module MVVM architecture - Phase 1/2|API & SDK Assistance|2.4.8/3.8.0||Story|Major
+SMARTMS-12499|24415|In Progress|17/Aug/21 11:52 AM|30/Aug/21 12:21 PM|[Tech][Performance]Android Channel Module MVVM architecture - Phase 1/2|API & SDK Assistance|2.4.8/3.8.0||Story|Major
+SMARTMS-6617|17835|In Progress|23/Mar/21 12:33 PM|11/Oct/21 11:28 AM|[Tech][Performance]Android Main screen refactoring|Tech - Performance|2.4.8/3.8.0||Story|Medium
+SMARTMS-1597|12337|In Progress|01/Oct/20 11:51 AM|18/Oct/21 9:41 AM|[Tech][Security] OpenID Connect - Phase 1 (10309) (AGR-237 Airbus)|Tech - Security|2.4.8/3.8.0||Story|Medium
+SMARTMS-12798|24718|In Progress|23/Aug/21 5:49 AM|13/Oct/21 9:15 AM|[Tech][Scalability][CUGv3] Limit number of users in a department|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-3085|13972|In Progress|25/Nov/20 9:26 AM|13/Oct/21 8:10 AM|[Tech][Performance] Database Optimizations - Remove DB partitions for Geolocation data (10334)|Tech - Performance|2.4.8/3.8.0||Story|Major
+SMARTMS-3086|13973|In Progress|25/Nov/20 9:27 AM|13/Oct/21 9:17 AM|[Tech][Performance] Remove DB partitions for other data (10335)|Tech - Performance|2.4.8/3.8.0||Story|Major
+SMARTMS-14379|26439|In Progress|27/Sep/21 6:33 AM|15/Oct/21 11:18 AM|[Tech][OpenID mobile] Android/iOS : Implement OpenID connect call flow|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-14389|26449|In Progress|27/Sep/21 9:27 AM|15/Oct/21 11:20 AM|[Tech][OpenID mobile] Client Server protocol changes|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-13222|25189|In Progress|31/Aug/21 3:44 PM|19/Oct/21 3:06 PM|[Device certification] SIYATA_UR5|Accessories|2.4.8/3.8.0||Story|Medium
+SMARTMS-13217|25183|In Progress|31/Aug/21 3:09 PM|19/Oct/21 3:05 PM|[Device certification] SIYATA_UV350|Accessories|2.4.8/3.8.0||Story|Medium
+SMARTMS-13223|25190|In Progress|31/Aug/21 3:48 PM|19/Oct/21 3:34 PM|[Device certification] CYRUS_CM17|Accessories|2.4.8/3.8.0||Story|Medium
+SMARTMS-13226|25193|In Progress|31/Aug/21 4:00 PM|19/Oct/21 3:34 PM|[Device certification] CYRUS_CM22|Accessories|2.4.8/3.8.0||Story|Medium
+SMARTMS-7780|19413|In Progress|19/Apr/21 3:07 PM|19/Oct/21 3:07 PM|[Device certification] Phonak - Analysis/study of Roger Covert accessory |Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-3079|13966|In Progress|25/Nov/20 9:14 AM|19/Oct/21 3:57 PM|[Tech][Performance] Large conversation - First Step : Skip Sending DLRs in Large conversation|Tech - Performance|2.4.8/3.8.0||Story|Minor
+SMARTMS-3080|13967|In Progress|25/Nov/20 9:15 AM|20/Oct/21 11:14 AM|[Tech][Performance] Mobile app: Batch retrieve of pending messages on connect (10730)|Tech - Performance|2.4.8/3.8.0||Story|Major
+SMARTMS-13744|25769|In Progress|10/Sep/21 6:53 PM|20/Oct/21 11:39 AM|[Tech][Performance] [iOS]: Refactor STWMessagesVC|Tech - Performance|2.4.8/3.8.0||Story|Medium
+SMARTMS-14378|26438|In Progress|27/Sep/21 6:21 AM|20/Oct/21 2:02 PM|[Tech][OpenID mobile] Confserv : Send OPENID information to mobile|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-6205|17337|In Progress|10/Mar/21 6:04 PM|20/Oct/21 3:19 PM|[Tech][CI/CD Phase2] 1 APK : [Step 2 - CIR Settings]New Mobile Configuration webservice with QR Code|Tech - CI / CD|2.4.8/3.8.0||Story|Medium
+SMARTMS-12125|24024|In Progress|04/Aug/21 2:12 PM|20/Oct/21 3:57 PM|[Tech][Performance]Large conversation - First Step : Skip Sending DLRs in Large conversation|Messaging|2.4.8/3.8.0||Story|Medium
+SMARTMS-12793|24713|In Progress|23/Aug/21 5:32 AM|20/Oct/21 5:39 PM|[Tech][Scalability][CUGv3] Organization settings|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-11883|23735|In Progress|29/Jul/21 10:25 AM|21/Oct/21 9:30 AM|[Tech][Resiliency] US SaaS disaster recovery platform deployment|Tech - Resiliency|2.4.8/3.8.0||Story|Major
+SMARTMS-14377|26437|In Progress|27/Sep/21 6:18 AM|21/Oct/21 1:35 PM|[Tech][OpenID mobile] Superadmin : Organizations configuration|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-14376|26436|In Progress|27/Sep/21 6:17 AM|11/Oct/21 8:45 AM|[Tech][OpenID mobile] Superadmin : OpenID servers|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-14295|26345|In Progress|23/Sep/21 12:05 PM|21/Oct/21 4:13 PM|[Tech][Security][#12380] Fix insecure direct object reference|Tech - Security|2.4.9/3.9.0||Story|Critical
+SMARTMS-10074|21854|In Progress|17/Jun/21 5:45 PM|21/Oct/21 6:19 PM|[Tech][Performance]Android Contact Module MVVM architecture - Phase1/2|API & SDK Assistance|2.4.8/3.8.0||Story|Major
+SMARTMS-3958|14930|DRAFT|12/Jan/21 3:33 PM|05/Aug/21 3:19 PM|[LOKI] Security|Loki|||Epic|Medium
+SMARTMS-3101|13988|DRAFT|25/Nov/20 9:46 AM|05/Aug/21 3:21 PM|[Tech] Subscriber identifier unique in database|Tech - Technical debt|||Story|Minor
+SMARTMS-3084|13971|DRAFT|25/Nov/20 9:24 AM|05/Aug/21 3:21 PM|[Tech][Technical Debt] MyBusiness refactoring - use classes (10252)|Tech - Technical debt|||Story|Minor
+SMARTMS-3075|13962|DRAFT|25/Nov/20 8:44 AM|05/Aug/21 3:21 PM|[Tech][Performance] Split CUG messages depending on who performs the action (user or administrator) (10707)|Tech - Performance|||Story|Minor
+SMARTMS-3028|13915|DRAFT|24/Nov/20 1:19 PM|05/Aug/21 3:21 PM|SmartMS Deployability features - phase 1|Tech - Deployability|||Epic|Minor
+SMARTMS-2914|13793|DRAFT|20/Nov/20 10:36 AM|05/Aug/21 3:21 PM|[Tech][VSL] VoIP routing in VSL|Tech - Scalability|||Story|Minor
+SMARTMS-2913|13792|DRAFT|20/Nov/20 10:36 AM|05/Aug/21 3:21 PM|[Tech][VSL] SIP routing in VSL|Tech - Scalability|||Story|Minor
+SMARTMS-2912|13791|DRAFT|20/Nov/20 10:35 AM|05/Aug/21 3:21 PM|[Tech][VSL] CUG generation in VSL|Tech - Scalability|||Story|Minor
+SMARTMS-2911|13790|DRAFT|20/Nov/20 10:35 AM|05/Aug/21 3:21 PM|[Tech][VSL] VSL server integration|Tech - Scalability|||Story|Minor
+SMARTMS-2910|13789|DRAFT|20/Nov/20 10:34 AM|05/Aug/21 3:21 PM|VSL architecture scalability|Tech - Scalability|||Epic|Minor
+SMARTMS-2897|13776|DRAFT|20/Nov/20 10:29 AM|05/Aug/21 3:21 PM|Fully automated geographical resiliency|Tech - Resiliency|||Epic|Minor
+SMARTMS-1681|12424|DRAFT|01/Oct/20 2:48 PM|05/Aug/21 3:22 PM|[Tech][Security] Audit Server - Encryption of recorded data (10544)|Tech - Security|||Story|Minor
+SMARTMS-1669|12412|DRAFT|01/Oct/20 2:38 PM|05/Aug/21 3:22 PM|[Tech][Security] SAML V2 sign in (10826)|Tech - Security|||Story|Minor
+SMARTMS-8670|20386|DRAFT|17/May/21 1:33 PM|05/Aug/21 3:12 PM|[Loc][All interfaces] Adding Hungarian Support Android - Phase 1 (AGR-798)||||Epic|Medium
+SMARTMS-8527|20211|DRAFT|11/May/21 4:06 PM|05/Aug/21 3:12 PM|[LOKI] [My Business] [ZD#10094] Cancel/delete processes confirmation|Loki|||Story|Medium
+SMARTMS-7824|19459|DRAFT|20/Apr/21 5:26 PM|05/Aug/21 3:13 PM|[Tech][Deployability] Video conferencing Jitsi Installation/Upgrade Procedure|Tech - Software|2.4.8/3.8.0||Story|Minor
+SMARTMS-7217|18818|DRAFT|02/Apr/21 12:34 PM|05/Aug/21 3:13 PM|[LOKI] [] WebChat Log-in Page|Loki|||Story|Minor
+SMARTMS-7170|18763|DRAFT|01/Apr/21 10:44 AM|05/Aug/21 3:13 PM|[Tech][Performance] swsmartms-webchat-frontend move to roadrunner|Tech - Performance|||Story|Minor
+SMARTMS-6394|17537|DRAFT|16/Mar/21 10:55 AM|05/Aug/21 3:16 PM|[Tech][VoIP][iOS] Migrate from openGL ES to metal|VoIP|||Story|Minor
+SMARTMS-5470|16526|DRAFT|23/Feb/21 7:07 PM|05/Aug/21 3:18 PM|[Tech][Security][VoIP] Mikey-Sakke library analysis|Tech - Security|||Story|Minor
+SMARTMS-5398|16448|DRAFT|22/Feb/21 8:12 AM|05/Aug/21 3:18 PM|[Tech][Georesiliency] DNS multi-IP resiliency phase 3|Tech - Resiliency|||Epic|Major
+SMARTMS-5397|16447|DRAFT|22/Feb/21 8:12 AM|05/Aug/21 3:17 PM|[Tech][Georesiliency] DNS multi-IP resiliency phase 2|Tech - Resiliency|||Epic|Major
+SMARTMS-4936|15963|DRAFT|10/Feb/21 8:37 AM|05/Aug/21 3:19 PM|[Tech] IPv6 support|Tech - Software|||Epic|Minor
+SMARTMS-11995|23857|DRAFT|02/Aug/21 9:51 AM|05/Aug/21 3:06 PM|[Tech][Security] Trainings - Internal Security Policy - New Employees - 2021|Security|||Story|Minor
+SMARTMS-11325|23155|DRAFT|15/Jul/21 3:32 PM|05/Aug/21 3:06 PM|List of Critical/Major performance priorities for Backend v2.4.8|Tech - Performance|||Epic|Major
+SMARTMS-11112|22935|DRAFT|12/Jul/21 8:59 AM|05/Aug/21 3:09 PM|[Tech][Scalability] Geolocation - Store aggregated data for long-term storage|Tech - Scalability|||Story|Medium
+SMARTMS-11110|22933|DRAFT|12/Jul/21 8:58 AM|05/Aug/21 3:08 PM|[Tech][Scalability] Move geolocation outside of Core|Tech - Scalability|||Story|Medium
+SMARTMS-10377|22166|DRAFT|24/Jun/21 1:36 PM|05/Aug/21 3:08 PM|[Tech][iOS]Update Coding Rules Document|Tech - Documentation|2.4.9/3.9.0||Story|Minor
+SMARTMS-9986|21762|DRAFT|16/Jun/21 1:49 PM|05/Aug/21 3:11 PM|[UI]Kinyarwanda language support||||Story|Medium
+SMARTMS-9054|20775|DRAFT|25/May/21 5:16 PM|05/Aug/21 3:12 PM|[LOKI] Video Calls: Advanced Telephony & Collaboration|Loki|||Epic|Medium
+SMARTMS-9044|20765|DRAFT|25/May/21 3:09 PM|05/Aug/21 3:12 PM|[LOKI] Video Calls: MCx|Loki|||Epic|Medium
+SMARTMS-6889|18478|DRAFT|29/Mar/21 9:09 AM|17/Aug/21 9:38 AM|[Tech][Security] [KMS] : Integration + tests - Thales|Tech - Software|2.4.8/3.8.0||Story|Major
+SMARTMS-12668|24588|DRAFT|19/Aug/21 10:13 AM|19/Aug/21 10:14 AM|CI/CD Phase 3 - Header|Tech - CI / CD|||Epic|Medium
+SMARTMS-6883|18472|DRAFT|29/Mar/21 8:46 AM|17/Aug/21 9:37 AM|[Tech][Security] [KMS] Key notification mechanisms (Optional for demo)|Tech - Software|2.4.8/3.8.0||Story|Major
+SMARTMS-9230|20962|DRAFT|31/May/21 11:43 AM|17/Aug/21 9:37 AM|[Tech][Security] [KMS] : Integration + tests - Airbus|Tech - Software|2.4.8/3.8.0||Story|Major
+SMARTMS-12415|24329|DRAFT|13/Aug/21 4:00 PM|25/Aug/21 8:26 PM|[Agnet] [work] [orange] [AGR-1221]Android delivery AAB format support|Tech - Software|2.4.6/3.6.0||Story|Minor
+SMARTMS-10072|21852|DRAFT|17/Jun/21 5:34 PM|30/Aug/21 12:20 PM|[Tech][Android] SDK & UI refactor|API & SDK Assistance|||Epic|Major
+SMARTMS-4915|15940|DRAFT|09/Feb/21 1:14 PM|31/Aug/21 11:45 AM|[Tech] Resiliency|Tech - Resiliency|||Epic|Minor
+SMARTMS-8550|20237|DRAFT|12/May/21 10:30 AM|03/Sep/21 5:57 PM|[LOKI] Audio Calls: Advanced Telephony & Collaboration|Loki|||Epic|Medium
+SMARTMS-13140|25105|DRAFT|30/Aug/21 12:12 PM|06/Sep/21 3:19 PM|[Tech][Performance]Android Messaging Module MVVM architecture - Phase 2/2|API & SDK Assistance|2.4.9/3.9.0||Story|Major
+SMARTMS-13141|25106|DRAFT|30/Aug/21 12:20 PM|06/Sep/21 3:19 PM|[Tech][Performance]Android Channel Module MVVM architecture - Phase 2/2|API & SDK Assistance|2.4.9/3.9.0||Story|Major
+SMARTMS-2977|13864|DRAFT|23/Nov/20 3:42 PM|06/Sep/21 3:20 PM|[Tech] Support of IPv6 - 4/4 - Mobile/UI|Tech - Software|2.4.9/3.9.0||Story|Minor
+SMARTMS-3851|14814|DRAFT|06/Jan/21 1:34 PM|07/Sep/21 5:58 PM|[Tech][Scalability Phase3] Webchat backend merge in Core|Tech - Scalability|2.4.9/3.9.0||Story|Major
+SMARTMS-12807|24727|DRAFT|23/Aug/21 10:45 AM|08/Sep/21 11:58 AM|New cug for large organizations (AGR-813)|Tech - Scalability|2.4.8/3.8.0||Epic|Major
+SMARTMS-2925|13805|DRAFT|20/Nov/20 11:20 AM|10/Sep/21 9:43 AM|[Logs] [System Logs and Stats] [#9047} Logs for tracability and audit |Tech - Logs|||Story|Minor
+SMARTMS-11974|23834|DRAFT|30/Jul/21 5:26 PM|10/Sep/21 9:57 AM|[Tech][Performance Step2] Large conversation : Implement Whatsapp Behavior|Tech - Performance|2.4.9/3.9.0||Story|Minor
+SMARTMS-13564|25576|DRAFT|07/Sep/21 10:23 AM|15/Sep/21 5:26 PM|[MCX][Performance] Refactor Subscriber.GetContacts|Contacts|||Story|Major
+SMARTMS-13981|26020|DRAFT|17/Sep/21 10:20 AM|17/Sep/21 11:46 AM|Add Arabic language support for TOTR/TOM|Tech - Localization|2.4.9/3.9.0||Epic|Minor
+SMARTMS-13475|25482|DRAFT|06/Sep/21 8:40 AM|17/Sep/21 1:58 PM|[Tech] Achieve scalability for the distributed architecture (phase 3)|Tech - Scalability|2.4.9/3.9.0||Epic|Major
+SMARTMS-831|11448|DRAFT|03/Sep/20 1:03 PM|22/Sep/21 9:42 AM|Architecture UiCore development||||Epic|Medium
+SMARTMS-815|11432|DRAFT|03/Sep/20 11:05 AM|22/Sep/21 9:43 AM|Use Webpack / NPM / simplifying RPM Package build||||Epic|Medium
+SMARTMS-4916|15941|DRAFT|09/Feb/21 1:18 PM|22/Sep/21 9:49 AM|[Tech] Deprecation||||Epic|Minor
+SMARTMS-8366|20029|DRAFT|07/May/21 4:53 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove validity checks in webadmin||||Story|Minor
+SMARTMS-8373|20036|DRAFT|07/May/21 5:32 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove flags in display (Mobile applications)||||Story|Minor
+SMARTMS-8371|20034|DRAFT|07/May/21 5:15 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove SMS token authentication||||Story|Minor
+SMARTMS-8374|20037|DRAFT|07/May/21 5:37 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Add flag in confserv check||||Story|Minor
+SMARTMS-8376|20039|DRAFT|07/May/21 5:39 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Disable phone number formatting in display (Mobile applications)||||Story|Minor
+SMARTMS-8372|20035|DRAFT|07/May/21 5:31 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove flags in display (Web applications)||||Story|Minor
+SMARTMS-8367|20030|DRAFT|07/May/21 4:55 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove validity checks in superadmin||||Story|Minor
+SMARTMS-8365|20028|DRAFT|07/May/21 4:37 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove validity checks in webchat||||Story|Minor
+SMARTMS-8370|20033|DRAFT|07/May/21 5:14 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove direct call to mobile for subscribers (Webchat)||||Story|Minor
+SMARTMS-8375|20038|DRAFT|07/May/21 5:38 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Disable phone number formatting in display (Web applications)||||Story|Minor
+SMARTMS-8369|20032|DRAFT|07/May/21 5:09 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove direct call to mobile for subscribers (Android/iOS)||||Story|Minor
+SMARTMS-8368|20031|DRAFT|07/May/21 4:58 AM|22/Sep/21 10:34 AM|[Tech][MSISDN] Remove validity checks in mobile app||||Story|Minor
+SMARTMS-5029|16056|DRAFT|11/Feb/21 12:13 PM|22/Sep/21 10:40 AM|"[Audit Platform] Tech, performance & security "|Audit Platform|||Epic|Medium
+SMARTMS-13274|25251|DRAFT|02/Sep/21 9:30 AM|22/Sep/21 11:21 AM|[Tech][CI/CD]UI and Mobile frameworks integration|Tech - CI / CD|||Epic|Minor
+SMARTMS-3252|14158|DRAFT|02/Dec/20 10:20 AM|22/Sep/21 3:51 PM|SmartMS Deployability features phase 2|Tech - Deployability|||Epic|Minor
+SMARTMS-14261|26310|DRAFT|23/Sep/21 6:38 AM|23/Sep/21 6:39 AM| [Tech}[Audit scalability] Make audit server stateless|Tech - Scalability|||Story|Minor
+SMARTMS-14263|26312|DRAFT|23/Sep/21 6:59 AM|23/Sep/21 6:59 AM|[Tech}[Audit scalability] Database cluster (MariaDB Galera cluster)|Tech - Scalability|||Story|Minor
+SMARTMS-14322|26373|DRAFT|24/Sep/21 5:18 AM|24/Sep/21 5:18 AM|[Tech][Audit Scalability] Distributed stateless installation procedure|Tech - Scalability|||Story|Minor
+SMARTMS-14321|26372|DRAFT|24/Sep/21 5:16 AM|24/Sep/21 6:53 AM|[Tech}[Audit scalability] Persistent storage mounted|Tech - Scalability|||Story|Minor
+SMARTMS-14324|26377|DRAFT|24/Sep/21 6:02 AM|24/Sep/21 6:27 AM|[Tech][Security] Audit server security enhancements|Tech - Security|2.4.10/3.10.0|2.4.9/3.9.0|Epic|Minor
+SMARTMS-12082|23974|DRAFT|03/Aug/21 11:35 AM|24/Sep/21 9:32 AM|[LOKI] [Audio Calls: General features] Deny to transmit - block user to initiate calls or talk in group calls|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-13942|25978|DRAFT|16/Sep/21 11:55 AM|24/Sep/21 9:55 AM|Epic of [Tech] Move the Other methods Used by API from ExternalApi interface to PublicWS interface (10589)||2.4.6/3.6.0||Epic|Minor
+SMARTMS-14328|26381|DRAFT|24/Sep/21 6:44 AM|24/Sep/21 3:50 PM|[Tech][Audit enhanced search] Add support for searching groups|Audit Platform|||Story|Minor
+SMARTMS-14329|26382|DRAFT|24/Sep/21 6:49 AM|24/Sep/21 3:56 PM|[Tech][Audit enhanced search] Add support for conversation grouping|Audit Platform|||Story|Minor
+SMARTMS-13276|25253|DRAFT|02/Sep/21 9:35 AM|25/Sep/21 10:07 AM|[Tech][CI/CD][UI and Mobile frameworks integration] Solution/Architecture|Tech - CI / CD|||Story|Minor
+SMARTMS-13277|25254|DRAFT|02/Sep/21 9:35 AM|25/Sep/21 10:07 AM|[Tech][CI/CD][UI and Mobile frameworks integration] Integration of frameworks|Tech - CI / CD|||Story|Minor
+SMARTMS-13278|25255|DRAFT|02/Sep/21 9:37 AM|25/Sep/21 10:07 AM|[Tech][CI/CD][UI and Mobile frameworks integration] Documentation|Tech - CI / CD|||Story|Minor
+SMARTMS-13280|25257|DRAFT|02/Sep/21 9:38 AM|25/Sep/21 10:07 AM|[Tech][CI/CD][UI and Mobile frameworks integration] Paralelization|Tech - CI / CD|||Story|Minor
+SMARTMS-13279|25256|DRAFT|02/Sep/21 9:37 AM|25/Sep/21 10:07 AM|[Tech][CI/CD][UI and Mobile frameworks integration] Trainings|Tech - CI / CD|||Story|Minor
+SMARTMS-14260|26309|DRAFT|23/Sep/21 6:30 AM|27/Sep/21 5:00 AM|[Tech][Scalability] Audit server scalability|Tech - Scalability|2.4.10/3.10.0|2.4.9/3.9.0|Epic|Medium
+SMARTMS-14368|26428|DRAFT|27/Sep/21 5:00 AM|27/Sep/21 5:42 AM|[Tech}[Audit scalability] Siprec client|Tech - Scalability|||Story|Minor
+SMARTMS-14330|26383|DRAFT|24/Sep/21 6:53 AM|27/Sep/21 5:42 AM|[Tech}[Audit scalability] Siprec server|Tech - Scalability|||Story|Minor
+SMARTMS-14375|26435|DRAFT|27/Sep/21 5:57 AM|27/Sep/21 6:13 AM|[Tech][KMS] Subscribe mechanism for clients - Server side|Tech - Security|||Story|Minor
+SMARTMS-14372|26432|DRAFT|27/Sep/21 5:31 AM|27/Sep/21 5:44 AM|[Tech][KMS] Webadmin: configure KMS|Tech - Security|||Story|Minor
+SMARTMS-14370|26430|DRAFT|27/Sep/21 5:24 AM|27/Sep/21 5:31 AM|[Tech][KMS] Study unclear points with Airbus|Tech - Security|||Story|Minor
+SMARTMS-14369|26429|DRAFT|27/Sep/21 5:21 AM|27/Sep/21 5:57 AM|[Tech][Security] KMS production implementation|Tech - Security|||Epic|Medium
+SMARTMS-14374|26434|DRAFT|27/Sep/21 5:49 AM|27/Sep/21 5:57 AM|[Tech][KMS] MCPTT Server - GMK key management|Tech - Security|||Story|Minor
+SMARTMS-14373|26433|DRAFT|27/Sep/21 5:33 AM|27/Sep/21 5:49 AM|[Tech][KMS] MCPTT Server - Requests for key materials|Tech - Security|||Story|Minor
+SMARTMS-14371|26431|DRAFT|27/Sep/21 5:25 AM|27/Sep/21 5:31 AM|[Tech][KMS] Superadmin : configure KMS|Tech - Security|||Story|Minor
+SMARTMS-4917|15942|DRAFT|09/Feb/21 1:32 PM|27/Sep/21 8:07 AM|[Tech] Technical debt|Tech - Technical debt|||Epic|Minor
+SMARTMS-10424|22214|DRAFT|25/Jun/21 2:40 PM|27/Sep/21 11:40 AM|[Tech][Security] [KMS]Key Material management in GMS (Demo airbus)||||Story|Minor
+SMARTMS-14446|26511|DRAFT|27/Sep/21 1:03 PM|27/Sep/21 3:58 PM|SmartMS Admin Pentest using BurpSuite tools|Security|||Story|Minor
+SMARTMS-14488|26561|DRAFT|28/Sep/21 10:32 AM|28/Sep/21 4:49 PM|[TECH][Performance] Diameter call flows supervised in Centreon|Tech - Performance|||Story|Minor
+SMARTMS-14509|26583|DRAFT|28/Sep/21 4:58 PM|28/Sep/21 4:58 PM|[TECH][Performance] Supervision of BMSC|Tech - Performance|||Story|Minor
+SMARTMS-7426|19042|DRAFT|12/Apr/21 10:33 AM|29/Sep/21 2:19 PM|[Tech][Scalability] VoIP split: automated tests|Tech - Scalability|2.4.9/3.9.0||Story|Minor
+SMARTMS-9056|20777|DRAFT|25/May/21 5:19 PM|29/Sep/21 2:18 PM|[LOKI] [Video Calls: Advanced Telephony & Collaboration] Share screen|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-9055|20776|DRAFT|25/May/21 5:19 PM|29/Sep/21 2:18 PM|[LOKI] [Video Calls: Advanced Telephony & Collaboration] Video conference|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-9050|20771|DRAFT|25/May/21 5:06 PM|29/Sep/21 2:18 PM|[LOKI] [Video Calls: MCx] Share video stream to other users|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-9048|20769|DRAFT|25/May/21 4:49 PM|29/Sep/21 2:18 PM|[LOKI] [Video Calls: MCx] Broadcast video call (from a user or external camera)|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-9046|20767|DRAFT|25/May/21 4:37 PM|29/Sep/21 2:18 PM|[LOKI] [Video Calls: MCx] Video call|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-1652|12395|DRAFT|01/Oct/20 2:24 PM|29/Sep/21 2:20 PM|[Tech][Security] OpenID Connect - Phase 2 (AGR-303)|Tech - Security|2.4.9/3.9.0||Story|Minor
+SMARTMS-14558|26635|DRAFT|30/Sep/21 8:43 AM|30/Sep/21 8:43 AM|Fix for SMARTMS-2342|Messaging|||Story|Minor
+SMARTMS-14507|26581|DRAFT|28/Sep/21 4:47 PM|30/Sep/21 3:19 PM|[TECH][Performance] Supervision of service availability|Tech - Performance|||Epic|Minor
+SMARTMS-8551|20238|DRAFT|12/May/21 10:37 AM|30/Sep/21 4:46 PM|[LOKI] Audio Calls: General features|Loki|||Epic|Medium
+SMARTMS-14596|26819|DRAFT|01/Oct/21 10:12 AM|01/Oct/21 10:12 AM|SmartMS API Pentest using BurpSuite tools|Security|||Story|Minor
+SMARTMS-14602|26825|DRAFT|01/Oct/21 11:03 AM|01/Oct/21 11:03 AM|[TECH][DOCUMENTATION] - Roadmap architecture for 2021-2022|Tech - Documentation|||Story|Minor
+SMARTMS-12162|24061|DRAFT|05/Aug/21 9:13 AM|04/Oct/21 3:53 PM|[Tech][Deployability] [Installer] Red Hat 8 Software Updates for 2.4.6 & 2.4.7 : End September|Tech - Deployability|2.4.8/3.8.0||Story|Major
+SMARTMS-14684|26925|DRAFT|05/Oct/21 8:48 AM|05/Oct/21 8:49 AM|support of BodyCam|Accessories|||Epic|Minor
+SMARTMS-14326|26379|DRAFT|24/Sep/21 6:27 AM|05/Oct/21 8:54 AM|[Tech][Audit Security] Anonymization of files in storage|Tech - Security|||Story|Minor
+SMARTMS-14325|26378|DRAFT|24/Sep/21 6:18 AM|05/Oct/21 8:54 AM|[Tech][Audit Security] Separate message data from metadata in DB|Tech - Security|||Story|Minor
+SMARTMS-14623|26849|DRAFT|01/Oct/21 4:23 PM|05/Oct/21 9:34 AM|[ACCESSORIES] Support of Sonim devices|Accessories|||Epic|Minor
+SMARTMS-1360|12092|DRAFT|23/Sep/20 6:22 PM|05/Oct/21 9:44 AM|[LOKI] Internationalisation and localisation|Loki|||Epic|Minor
+SMARTMS-1134|11852|DRAFT|15/Sep/20 10:44 AM|05/Oct/21 9:44 AM|[LOKI] Web UI - lists all UI adaptation/improvements needed for the new LOKI such as make ti responsive. |Loki|||Epic|Medium
+SMARTMS-1361|12093|DRAFT|23/Sep/20 6:30 PM|05/Oct/21 9:45 AM|[LOKI] Performance|Loki|||Epic|Minor
+SMARTMS-5767|16877|DRAFT|01/Mar/21 4:09 PM|05/Oct/21 9:49 AM|[LOKI] Spec out the websocket setup that Loki needs. |Loki|||Story|Minor
+SMARTMS-832|11449|DRAFT|03/Sep/20 1:06 PM|05/Oct/21 9:43 AM|[LOKI] WebChat Settings|Loki|||Epic|Medium
+SMARTMS-4740|15760|DRAFT|03/Feb/21 5:27 PM|05/Oct/21 1:59 PM|"[VoIP stack][VoIP] ""route"" audio from/to an external app"|VoIP|||Story|Minor
+SMARTMS-820|11437|DRAFT|03/Sep/20 11:31 AM|05/Oct/21 1:57 PM|simplify RPM build|Tech - CI / CD|||Story|Major
+SMARTMS-13048|25006|DRAFT|26/Aug/21 3:29 PM|05/Oct/21 3:49 PM|[Localization][Loc] Labels for 2.4.8/3.8.0|Tech - Localization|2.4.8/3.8.0||Epic|Major
+SMARTMS-14715|26966|DRAFT|05/Oct/21 3:18 PM|05/Oct/21 3:50 PM|[LOKI] [Messaging] Conversation collaboration|Loki|2.4.9/3.9.0||Epic|Medium
+SMARTMS-13777|25802|DRAFT|13/Sep/21 11:26 AM|05/Oct/21 5:16 PM|Create Procedure to Audit the security of an Application Server|Security|||Story|Major
+SMARTMS-14714|26965|DRAFT|05/Oct/21 3:10 PM|06/Oct/21 10:13 AM|[LOKI] [Messaging] Conversation list|Loki|2.4.9/3.9.0||Epic|Medium
+SMARTMS-14760|27013|DRAFT|06/Oct/21 8:21 AM|06/Oct/21 8:21 AM|Radio GW connected with cable to LTE Device|Accessories|||Epic|Minor
+SMARTMS-4741|15761|DRAFT|03/Feb/21 5:38 PM|07/Oct/21 11:01 AM|[LOKI] [WebChat Settings] Use Service API|Loki|||Story|Medium
+SMARTMS-9847|21616|DRAFT|14/Jun/21 1:21 PM|11/Oct/21 8:27 AM|Hugo [Core]|Tech - Localization|2.4.8/3.8.0||Epic|Medium
+SMARTMS-7690|19312|DRAFT|15/Apr/21 4:03 PM|11/Oct/21 10:55 AM|[Tech][Security]Certificats management interface|Tech - Security|2.4.10/3.10.0||Story|Minor
+SMARTMS-14978|27249|DRAFT|11/Oct/21 12:03 PM|11/Oct/21 12:06 PM|API methods testing using Postman|Security|||Story|Minor
+SMARTMS-9052|20773|DRAFT|25/May/21 5:11 PM|03/Sep/21 2:04 PM|[LOKI] [Audio Calls: Advanced Telephony & Collaboration] Call in to groups|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-9015|20736|DRAFT|25/May/21 10:40 AM|06/Sep/21 10:40 AM|[LOKI] [Audio Calls: MCx] Emergency 1to1 VoIP Call (response to Ermergency Message)|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-8826|20547|DRAFT|19/May/21 5:38 PM|06/Sep/21 10:39 AM|[LOKI] [Audio Calls: MCx] Emergency PTT call|Loki|2.4.8/3.8.0||Story|Medium
+SMARTMS-2923|13802|DRAFT|20/Nov/20 11:08 AM|12/Oct/21 7:52 AM|[Logs] System Logs and Stats|Tech - Logs|||Epic|Medium
+SMARTMS-15068|27342|DRAFT|12/Oct/21 2:54 PM|12/Oct/21 3:06 PM|[Tech][Documentation] Architectures supported|Tech - Documentation|||Epic|Medium
+SMARTMS-15069|27343|DRAFT|12/Oct/21 3:00 PM|12/Oct/21 3:06 PM|[TECH-Documentation] priorities for Architecture support|Tech - Documentation|||Story|Minor
+SMARTMS-14121|26163|DRAFT|20/Sep/21 5:16 PM|12/Oct/21 4:34 PM|[Tech][Android] Make default calling app part of TOTR/TOM packages|VoIP|2.4.9/3.9.0||Story|Medium
+SMARTMS-10858|22669|DRAFT|06/Jul/21 9:25 AM|13/Oct/21 9:33 AM|[Tech][Technical Debt] Move ConversationsList and MessagesList requests from SIP to HTTP interface||2.4.8/3.8.0||Story|Minor
+SMARTMS-558|11127|DRAFT|25/Aug/20 11:59 AM|13/Oct/21 9:45 AM|[Tech][InterAS] Non anonymization (10846)|Tech - Inter AS|2.4.8/3.8.0||Story|Minor
+SMARTMS-8364|20027|DRAFT|07/May/21 4:23 AM|05/Aug/21 3:12 PM|[Tech] Allow usage of numeric IDs instead of MSISDN for users|Tech - Software|||Epic|Medium
+SMARTMS-15150|27431|DRAFT|13/Oct/21 4:27 PM|13/Oct/21 4:27 PM|UMS 3.9.0 Pentest using BurpSuite tools|Security|||Story|Minor
+SMARTMS-12940|24892|DRAFT|25/Aug/21 10:38 AM|14/Oct/21 12:49 PM|SmartMS Deployability features phase 3|Tech - Deployability|||Epic|Minor
+SMARTMS-15203|27499|DRAFT|14/Oct/21 2:24 PM|14/Oct/21 2:24 PM|StreamWIDE Engine Security Documentation|Tech - Security|||Story|Major
+SMARTMS-14317|26368|DRAFT|23/Sep/21 5:09 PM|14/Oct/21 10:30 PM|[TECH][ACCESSORIES] CompatibilityList Update 248/370|Accessories|2.4.9/3.9.0||Epic|Minor
+SMARTMS-15284|27585|DRAFT|18/Oct/21 11:50 AM|18/Oct/21 11:50 AM|[Tech][Security] Démo|Tech - Security|||Story|Medium
+SMARTMS-6768|18211|DRAFT|25/Mar/21 3:44 PM|18/Oct/21 11:57 AM|[Tech][Security] Integrate with 3GPP KMS (AGR-815)|Tech - Security|||Epic|Minor
+SMARTMS-10592|22394|DRAFT|30/Jun/21 2:57 PM|19/Oct/21 8:42 AM|Automatic user creation via LDAP with short numbers (Airbus AGR-820)|Provisioning|2.4.10/3.10.0||Story|Minor
+SMARTMS-14363|26423|DRAFT|24/Sep/21 4:58 PM|19/Oct/21 9:21 AM|[device certification] [AGT-1224] certification of  Samsung Galaxy Xcover 5 entreprise edition for Agnet Work Saas package 3.8|Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-14626|26852|DRAFT|01/Oct/21 4:50 PM|19/Oct/21 9:21 AM|[ACCESSORIES] Support of SONIM XP3+ buttons|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-15077|27351|DRAFT|12/Oct/21 4:30 PM|19/Oct/21 9:23 AM|[TECH][ACCESSORIES]Export the devices models/configuration and create a pre-filled database with devices/model|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-14625|26851|DRAFT|01/Oct/21 4:47 PM|19/Oct/21 9:21 AM|[ACCESSORIES] support of External Screen for SONIM XP3+|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-15078|27352|DRAFT|12/Oct/21 4:31 PM|19/Oct/21 9:23 AM|[TECH][ACCESSORIES]Add/Edit/Remove a device/model configuration|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-15249|27547|DRAFT|15/Oct/21 3:33 PM|19/Oct/21 9:23 AM|[device certification] [AGT-1332]  Crosscall Core-X5|Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-15079|27353|DRAFT|12/Oct/21 4:32 PM|19/Oct/21 9:23 AM|[TECH][ACCESSORIES]Test existing devices|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-15308|27609|DRAFT|19/Oct/21 8:57 AM|19/Oct/21 9:24 AM|[TECH][ACCESSORIES]Warning if device not recognised|Accessories|2.4.10/3.10.0||Story|Minor
+SMARTMS-15081|27355|DRAFT|12/Oct/21 4:33 PM|19/Oct/21 9:24 AM|[TECH][ACCESSORIES]What happen if a modification is done by the superadmin on a validated device|Accessories|2.4.10/3.10.0||Story|Minor
+SMARTMS-15080|27354|DRAFT|12/Oct/21 4:33 PM|19/Oct/21 9:23 AM|[TECH][ACCESSORIES]Set device status to draft or valid for deployement|Accessories|2.4.10/3.10.0||Story|Minor
+SMARTMS-6071|17197|DRAFT|08/Mar/21 4:29 PM|19/Oct/21 9:24 AM|[accessory certification] [UVC camera VIPRO BV-C3]|Accessories|||Story|Minor
+SMARTMS-14752|27005|DRAFT|05/Oct/21 4:43 PM|19/Oct/21 9:26 AM|[TECH][ACCESSORIES] Map unknown button|Accessories|2.4.10/3.10.0||Story|Minor
+SMARTMS-14380|26440|DRAFT|27/Sep/21 6:54 AM|04/Oct/21 4:03 PM|[Tech][OpenID mobile] Android/iOS : OpenID connect token refresh|Tech - Security|2.4.8/3.8.0||Story|Minor
+SMARTMS-15247|27545|DRAFT|15/Oct/21 3:23 PM|19/Oct/21 2:02 PM|[device Certification] Telo 590P|Accessories|2.4.9/3.9.0||Story|Medium
+SMARTMS-12950|24902|DRAFT|25/Aug/21 12:36 PM|19/Oct/21 3:19 PM|[Device Certification] New device support FAMOCO FX205|Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-15362|27665|DRAFT|19/Oct/21 9:54 PM|19/Oct/21 9:55 PM|BroadWay  Phase 3|Tech - Inter AS|2.4.9/3.9.0||Epic|Minor
+SMARTMS-13512|25520|DRAFT|06/Sep/21 10:59 AM|20/Oct/21 8:11 AM|[Device certification][TELO 300K]|Accessories|2.4.8/3.8.0||Story|Minor
+SMARTMS-15365|27668|DRAFT|20/Oct/21 8:38 AM|20/Oct/21 8:38 AM|Jitsi - implement log rotate for logs|Tech - Logs|||Story|Minor
+SMARTMS-13337|25334|DRAFT|02/Sep/21 5:50 PM|20/Oct/21 9:23 AM|[Tech][Device] [AGR-865]-New device Support BW 2.4.9/3.9|Accessories|2.4.9/3.9.0||Epic|Minor
+SMARTMS-14723|26974|DRAFT|05/Oct/21 3:33 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation list] Pin a conversation as favorite|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14726|26978|DRAFT|05/Oct/21 3:42 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation collaboration] Conference option|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14729|26981|DRAFT|05/Oct/21 3:47 PM|20/Oct/21 9:50 AM|[LOKI] [Messaging] [Conversation collaboration] Create group conversation|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14731|26983|DRAFT|05/Oct/21 3:47 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] Edit group conversation|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14732|26984|DRAFT|05/Oct/21 3:48 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] Locate|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14733|26985|DRAFT|05/Oct/21 3:48 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] Attachments|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14735|26987|DRAFT|05/Oct/21 3:49 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] Export|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14737|26989|DRAFT|05/Oct/21 3:49 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] User details|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14739|26991|DRAFT|05/Oct/21 3:50 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] Close conversation|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14740|26992|DRAFT|05/Oct/21 3:50 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation collaboration] Leave conversation|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14766|27019|DRAFT|06/Oct/21 10:13 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Writing a message|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14769|27022|DRAFT|06/Oct/21 10:25 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Attachments|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14770|27023|DRAFT|06/Oct/21 10:26 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Voice message|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14771|27024|DRAFT|06/Oct/21 10:26 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Sharing location|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14773|27026|DRAFT|06/Oct/21 10:27 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Requesting confirmation|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14781|27034|DRAFT|06/Oct/21 11:18 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Replying to a specific message|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-14782|27035|DRAFT|06/Oct/21 11:18 AM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] Tagging someone in a message|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-8715|20431|DRAFT|17/May/21 5:16 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] [ZD#4991] Grouping consecutive messages|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-15222|27519|DRAFT|15/Oct/21 9:00 AM|20/Oct/21 9:50 AM|[Tech][Scalability] Add retry for Ressource manager web services call in VoIP|Tech - Scalability|2.4.9/3.9.0||Story|Major
+SMARTMS-15305|27606|DRAFT|19/Oct/21 8:42 AM|20/Oct/21 9:50 AM|[Tech][Scalability] Improve load balancing between mediaservers|Tech - Scalability|2.4.10/3.10.0|2.4.9/3.9.0|Story|Minor
+SMARTMS-10960|22775|DRAFT|07/Jul/21 2:58 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] [ZD#11937] Send multiple attachments in a conversation|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-10992|22809|DRAFT|07/Jul/21 5:11 PM|20/Oct/21 9:51 AM|[LOKI] [Messaging] [Conversation content] [ZD#11938] Upload images by pasting them|Loki|2.4.9/3.9.0||Story|Medium
+SMARTMS-15291|27592|DRAFT|18/Oct/21 2:51 PM|20/Oct/21 9:52 AM|[Tech][Security] -  Answer Common Criteria Questions for Android App (AGR-880)|Security|2.4.9/3.9.0||Story|Medium
+SMARTMS-14680|26919|DRAFT|04/Oct/21 7:10 PM|20/Oct/21 9:52 AM|[Tech][Accessory][STW/Agnet] BLE - Support accessories per configuration|Accessories|2.4.9/3.9.0||Story|Minor
+SMARTMS-14940|27212|DRAFT|08/Oct/21 2:22 PM|20/Oct/21 9:53 AM|Study: make voip front end stateless for 3GPP clients|VoIP|2.4.9/3.9.0||Story|Minor
+SMARTMS-15174|27468|DRAFT|14/Oct/21 8:51 AM|21/Oct/21 5:54 AM|test US||||Story|Minor
+SMARTMS-13047|25005|DRAFT|26/Aug/21 3:25 PM|21/Oct/21 6:53 AM|[Localization][Loc] 2.4.8/3.8.0 Labels translation|Tech - Localization|2.4.8/3.8.0||Story|Major
+SMARTMS-4940|15967|DRAFT|10/Feb/21 10:04 AM|21/Oct/21 7:37 AM|[Tech][Scalability] VoIP split part 4: First optimizations|Tech - Scalability|2.4.8/3.8.0||Story|Minor
+SMARTMS-9777|21542|DRAFT|11/Jun/21 3:14 PM|21/Oct/21 7:36 AM|[Tech][Scalability] Backup : Handle database backups with Galera DB cluster|Tech - Scalability|2.4.8/3.8.0||Story|Major
+SMARTMS-12547|24464|DRAFT|18/Aug/21 9:55 AM|21/Oct/21 7:59 AM|[Tech][Deployability] [Installer] Analyze and implement installer 4.3 to 4.4 inplace upgrade for messaging server |Tech - Deployability|2.4.8/3.8.0||Story|Major
+SMARTMS-2975|13862|DRAFT|23/Nov/20 3:41 PM|21/Oct/21 8:30 AM|[Tech] [Deployability] Support of IPv6 - 3/4 - Core|Tech - Deployability|2.4.8/3.8.0||Story|Minor
+SMARTMS-12552|24469|DRAFT|18/Aug/21 9:59 AM|21/Oct/21 8:34 AM|[Tech][Deployability] [Installer] Analyze and implement installer 4.3 to 4.4 inplace upgrade for smartms-aio server|Tech - Deployability|2.4.8/3.8.0||Story|Major
+SMARTMS-12848|24768|DRAFT|23/Aug/21 2:42 PM|21/Oct/21 8:38 AM|[Tech][CI/CD Phase3] Unit tests|Tech - CI / CD|2.4.8/3.8.0||Story|Medium
+SMARTMS-13050|25008|DRAFT|26/Aug/21 3:41 PM|21/Oct/21 8:38 AM|[Tech][CI/CD Phase 3] Automate release notes generation|Tech - CI / CD|2.4.8/3.8.0||Story|Medium
+SMARTMS-5815|16925|DRAFT|02/Mar/21 4:20 PM|21/Oct/21 8:36 AM|[Tech][Deployability] [Installer] Analyze and implement installer 4.2 to 4.3 inplace upgrade for mngt server |Tech - Deployability|2.4.8/3.8.0||Story|Major
+SMARTMS-6055|17181|DRAFT|08/Mar/21 2:59 PM|21/Oct/21 9:20 AM|[Tech][Security] Android Security scans : FirstNet ATT Video Optimizer|Tech - Security|2.4.8/3.8.0||Story|Medium
+SMARTMS-6047|17173|DRAFT|08/Mar/21 2:42 PM|21/Oct/21 9:19 AM|[Tech][Security] Android Security scans : Fortify|Tech - Security|2.4.8/3.8.0||Story|Medium
+SMARTMS-9298|21034|DRAFT|02/Jun/21 9:02 AM|21/Oct/21 9:32 AM|[Tech][Technical Debt] Remove username from accounts|Tech - Technical debt|2.4.8/3.8.0||Story|Major
+SMARTMS-15418|27721|DRAFT|21/Oct/21 10:21 AM|21/Oct/21 12:18 PM|[Tech][Scalability] 2.4.10|Tech - Scalability|||Epic|Minor
+SMARTMS-15201|27496|DRAFT|14/Oct/21 1:51 PM|21/Oct/21 12:18 PM|[Tech][Scalability Phase3]  dnsmasq monitored by centreon on distributed architecture|Tech - Deployability|2.4.9/3.9.0||Story|Minor
+SMARTMS-14323|26374|DRAFT|24/Sep/21 5:29 AM|21/Oct/21 2:11 PM|[Tech][Security] OpenID connect login for mobile|Tech - Security|2.4.8/3.8.0||Epic|Medium
+SMARTMS-3268|14174|DRAFT|02/Dec/20 11:29 AM|21/Oct/21 3:01 PM| Translation of SuperAdmin interface in French for Orange (AGR-659)|Tech - Localization|||Story|Medium
+SMARTMS-14127|26169|DRAFT|20/Sep/21 7:25 PM|19/Oct/21 2:57 PM|[TECH][ACCESSORIES]Device auto-support|Accessories|2.4.9/3.9.0||Epic|Medium
+SMARTMS-13339|25336|DRAFT|02/Sep/21 5:56 PM|21/Oct/21 6:38 PM|[Tech][Customization] Generation of Orange packages in 2.4.9/3.9 release (Airbus AGR-867)|Rebranding|2.4.9/3.9.0||Story|Minor
+SMARTMS-0000|00000|TO_BE_ESTIMATED|20/Nov/20 10:28 AM|06/Sep/21 8:42 AM|not i A|Tech - Scalability|2.4.12/3.12.0||Story|Minor
