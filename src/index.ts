@@ -1,5 +1,5 @@
-import { CellValue, Row, Workbook, Worksheet } from 'exceljs';
-import { compareXLS ,WorkbookUtils} from "./xlsreader"
+import {  Workbook, Worksheet } from 'exceljs';
+import { WorkbookUtils} from "./xlsreader"
 import { intersectionStringArray } from "./util";
 
 const fileA='./src/__tests__/sample/Book1_versionA.xlsx'
@@ -16,31 +16,6 @@ output fileComp
         diffB
 output is a workbook 
 */
-/*async function loadData (file1: string, file2:string){
-    const reader = new XLSREADER()
-    await reader.loadExcelFile(file1).then(()=>{
-        console.log(reader.WorkbookList)
-    })
-    await reader.loadExcelFile(file2).then(()=>{
-        console.log(reader.WorkbookList)
-    })
-    return reader
-}
-*/
-/**
- * convert a Row (Exceljs) to a joint string with a separator
- * @param rowToConvert Row
- * @param separator  character used as a separator. default is '|'
- * @returns  joint string with separator
- */
-    function CSVifyRow(rowToConvert:Row, separator?:string):string {
-    const arrayOfValue:CellValue[]=[]
-    for (let index = 1; index < rowToConvert.cellCount; index++) {
-        arrayOfValue.push(rowToConvert.getCell(index).value);
-    }
-    const sep=separator?separator:('|')
-    return arrayOfValue.join(sep)
-}
 function _union(arr1:string[],arr2:string[]):string[]{
     const arr2Unique=arr2.filter(a2=>!arr1.includes(a2))
     return [...arr1, ...arr2Unique]
@@ -94,19 +69,11 @@ const main = async  (fileAPath:string, fileBPath:string,outputComparisonPath:str
     const wb2:WorkbookUtils=new WorkbookUtils()
     await wb1.loadExcelFile(fileAPath)
     await wb2.loadExcelFile(fileBPath)
-    // console.log(wb1.sheetList)
-    // console.log(wb2.sheetList)
-    const WSunion=_union(wb1.sheetList,wb2.sheetList)
-    const WBcompare = new WorkbookUtils()
-    WSunion.forEach(ws=> WBcompare.wb.addWorksheet(ws))
-    // console.log(WBcompare.sheetList)
-    // differenceperSheet(wb1.wb.getWorksheet(WSunion[0]),wb2.wb.getWorksheet(WSunion[0]),WBcompare.wb.getWorksheet(WSunion[0]))
-    // console.log(WBcompare.sheetList)
-    // WBcompare.wb.xlsx.writeFile('test.xlsx')
     const WBresult= compareWorkbook(wb1,wb2)
     WBresult.xlsx.writeFile(outputComparisonPath)
+    console.log(`${outputComparisonPath} written`)
 }
 
-console.log('test')
+
 main(fileA,fileB,'test3.xlsx')
 
