@@ -24,3 +24,7 @@ export function intersectionStringArray(stringArray1: string[], stringArray2: st
         'intersection': intersection, 'diff1': diff1, 'diff2': diff2
     });
 }
+export function _union(arr1:string[],arr2:string[]):string[]{
+    const arr2Unique=arr2.filter(a2=>!arr1.includes(a2))
+    return [...arr1, ...arr2Unique]
+}
