@@ -56,5 +56,6 @@
     },
     "nyc": {
         "exclude": "**/*.spec.ts"
-    }
+    },
+    "files": ["build/**/*"]
 }
